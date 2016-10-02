@@ -46,9 +46,9 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
-            <li><a href="#resources">Resources</a></li>
+            <li class="active"><a href="#">Resources</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -58,44 +58,7 @@
 
       <div class="starter-template">
        
-        <p class="lead">Campus sexual violence incidents in the U.S. in 2014</p>
-
-        <!-- Google Map code -->
-        <div id="map"></div>
-        <script>
-          function initMap() {
-            var US_center = {lat: 39.8282, lng: -98.5795};
-            var map = new google.maps.Map(document.getElementById('map'), {
-              zoom: 4,
-              center: US_center
-            });
-            
-            map.data.loadGeoJson('map.geojson');
-
-            map.data.setStyle(function(feature) {
-              var magnitude = feature.getProperty('total_offenses');
-              return {
-                icon: getCircle(magnitude)
-              };
-            });
-
-            function getCircle(magnitude) {
-              var circle = {
-                path: google.maps.SymbolPath.CIRCLE,
-                fillColor: 'red',
-                fillOpacity: .2,
-                scale: magnitude,
-                strokeColor: 'white',
-                strokeWeight: .5
-              };
-              return circle;
-            }
-
-          }
-        </script>
-        <script async defer
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdPeJ5xqsqtEboFnQktSEvtAcQ52W-xNM&callback=initMap">
-        </script>
+        <p class="lead">Statistics collected from the U.S. Department of Education. Results shows are total sexual violence incidents reported for each campus. This includes rape, statutory rape, and sexual assault. The total number includes incidents on campus, off campus, on public property, and those filed as state police reports.</p>
 
 
       </div>

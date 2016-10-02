@@ -1,17 +1,10 @@
-University of Southern California,University Park Campus
-Alabama State University,Main Campus
 American Musical and Dramatic Academy,Main Campus
-Appalachian State University,Main Campus
-Arcadia University,Main Campus
-Arizona State University-Tempe,Tempe Campus
-Arizona State University-Tempe,Downtown Phoenix Campus
 Baker College of Owosso,BAKER COLLEGE OF OWOSSO
 Baptist Health Schools-Little Rock,Main Campus
 Baptist Health System School of Health Professions,Main campus
 Baylor University,Main Campus
 Benedictine University,Benedictine University at Mesa
 Berkshire Community College,Main Campus
-Bethel College-Indiana,Main Campus
 Bethel University,Bethel University - Main Campus
 Bloomfield College,Main Campus
 Bowdoin College,Main Campus
@@ -28,7 +21,6 @@ Case Western Reserve University,Main Campus
 Central Michigan University,Main Campus
 Chaminade University of Honolulu,Chaminade University of Honolulu
 Clarkson University,Main Campus
-Clemson University,Main Campus
 Coastal Carolina University,Main Campus
 Colorado State University-Fort Collins,Main Campus
 Concordia College at Moorhead,Concordia College
@@ -51,7 +43,6 @@ Franklin and Marshall College,Franklin and Marshall College Main Campus
 George Washington University,Main Campus
 Georgia College and State University,Milledgeville Main Campus
 Georgia Institute of Technology-Main Campus,Main Campus
-Georgia State University,Main Campus
 Gettysburg College,Main Campus
 Grand Rapids Community College,Main Campus
 Green River Community College,Main Campus
