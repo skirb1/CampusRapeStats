@@ -21,8 +21,15 @@ for record_r in cursor :
 	cursor_c = campuses.find({ "_id": record_r['campus_id'] })
 	record_c = cursor_c[0]
 
+	latitude = float(record_c["lat"])
+	longitude = float(record_c["long"])
+
 	#leave out schools that dont have lat/long
-	if record_c['lat'] == 0 or record_c['long'] == 0 :
+	if latitude == 0.0 or longitude == 0.0 :
+		continue
+
+	#leave out lat/long outside U.S. bounds (invalid data)
+	if (latitude < 10.0 or latitude > 72.0 or longitude < -175.0 or longitude > -55.0) :
 		continue
 
 	school = record_c['school_name']
@@ -34,7 +41,6 @@ for record_r in cursor :
 
 	#feature missing, insert data
 	else :
-
 		geo_data.update(
 			{ "type" : "FeatureCollection"},
 			{ "$push" : { "features" :
@@ -42,7 +48,7 @@ for record_r in cursor :
 					"type": "Feature",
 					"geometry": {
 	    				"type": "Point",
-	    				"coordinates": [ float(record_c['long']), float(record_c['lat'])]
+	    				"coordinates": [ longitude, latitude ]
 	  				},
 	  				"properties": {
 	    				"school_name": school,
