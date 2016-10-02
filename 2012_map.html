@@ -47,29 +47,30 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="about.html">About</a></li>
+            <li><a href="About.html">About</a></li>
             <li><a href="resources.html">Resources</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
 
-    <div class="jumbotron-topic">
+<div class="jumbotron-topic">
         <div class="container">
         <br/>
         </div><!-- /.container -->
         
         <div class="container">
       <ul class="nav nav-tabs" role="navigation">
-                <li class="active"><a href="index.html">2014 Map</a></li>
+                <li><a href="index.html">2014 Map</a></li>
                 <li><a href="2013_map.html">2013 Map</a></li>
-                <li><a href="2012_map.html">2012 Map</a></li>
+                <li class="active"><a href="2012_map.html">2012 Map</a></li>
                 <li><a href="2011_map.html">2011 Map</a></li>
+
         </ul>
       </div>
     </div><!-- jumbotron -->
 
-    <div class="container">
+<div class="container">
 
       <div class="starter-template">
        
@@ -83,7 +84,7 @@
               center: US_center
             });
             
-            map.data.loadGeoJson('map2014.geojson');
+            map.data.loadGeoJson('map2012.geojson');
 
             map.data.setStyle(function(feature) {
               var magnitude = feature.getProperty('total_offenses');
@@ -110,7 +111,7 @@
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdPeJ5xqsqtEboFnQktSEvtAcQ52W-xNM&callback=initMap">
         </script>
         <br/>
-        <p class="lead">Campus sexual violence incidents in the U.S. in 2014</p>
+        <p class="lead">Campus sexual violence incidents in the U.S. in 2012</p>
 
       </div>
 
