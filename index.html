@@ -69,11 +69,29 @@
               zoom: 4,
               center: US_center
             });
-            /*
-            var marker = new google.maps.Marker({
-              position: US_center,
-              map: map
-            });*/
+            
+            map.data.loadGeoJson('map.geojson');
+
+            map.data.setStyle(function(feature) {
+              var magnitude = feature.getProperty('total_offenses');
+              return {
+                icon: getCircle(magnitude)
+              };
+            });
+
+            function getCircle(magnitude) {
+              var circle = {
+                path: google.maps.SymbolPath.CIRCLE,
+                fillColor: 'red',
+                fillOpacity: .2,
+                scale: magnitude,
+                /*scale: Math.pow(2, magnitude) / 2,*/
+                strokeColor: 'white',
+                strokeWeight: .5
+              };
+              return circle;
+            }
+
           }
         </script>
         <script async defer
