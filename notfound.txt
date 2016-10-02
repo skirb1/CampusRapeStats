@@ -1,143 +1,1037 @@
-University of Southern California,University Park Campus
-Alabama State University,Main Campus
-American Musical and Dramatic Academy,Main Campus
-Appalachian State University,Main Campus
-Arcadia University,Main Campus
-Arizona State University-Tempe,Tempe Campus
-Arizona State University-Tempe,Downtown Phoenix Campus
-Baker College of Owosso,BAKER COLLEGE OF OWOSSO
-Baptist Health Schools-Little Rock,Main Campus
-Baptist Health System School of Health Professions,Main campus
-Baylor University,Main Campus
-Benedictine University,Benedictine University at Mesa
-Berkshire Community College,Main Campus
-Bethel College-Indiana,Main Campus
-Bethel University,Bethel University - Main Campus
-Bloomfield College,Main Campus
-Bowdoin College,Main Campus
-Bowling Green State University-Firelands,Firelands Campus
-Bunker Hill Community College,Main Campus
-California Institute of Technology,Main Campus
-California Polytechnic State University-San Luis Obispo,Main Campus
-California State University-Chico,Main Campus
-California State University-Fresno,Main Campus
-California State University-Fullerton,Main Campus
-California University of Pennsylvania,Main Campus
-Carnegie Mellon University,Main Campus
-Case Western Reserve University,Main Campus
-Central Michigan University,Main Campus
-Chaminade University of Honolulu,Chaminade University of Honolulu
-Clarkson University,Main Campus
-Clemson University,Main Campus
-Coastal Carolina University,Main Campus
-Colorado State University-Fort Collins,Main Campus
-Concordia College at Moorhead,Concordia College
-Cornell University,Statutory and Endowed Campus
-Cornell University,Cornell Tech
-CUNY Kingsborough Community College,Kingsborough Community College
-Cypress College,Culinary Arts Program
-Daemen College,Main Campus
-Dartmouth College,Dartmouth College  Main Campus
-DePauw University,Main Campus
-Dickinson College,Main Campus
-Drake University,Main Campus
-East Tennessee State University,Main Campus
-Emory & Henry College,Main Campus
-Evangel University,Main Campus
-Ferris State University,Main Campus
-Florida State University,Main Campus
-Framingham State University,Main Campus
-Franklin and Marshall College,Franklin and Marshall College Main Campus
-George Washington University,Main Campus
-Georgia College and State University,Milledgeville Main Campus
-Georgia Institute of Technology-Main Campus,Main Campus
-Georgia State University,Main Campus
-Gettysburg College,Main Campus
-Grand Rapids Community College,Main Campus
-Green River Community College,Main Campus
-Greenville Technical College,Barton [Main] Campus
-Harvard University,Cambridge Campus
-Hiram College,Main Campus
-Indiana University-Bloomington,Indiana University - Bloomington Campus
-Indiana University-Purdue University-Indianapolis,Main Campus
-Iowa Lakes Community College,Main Campus
-Iowa State University,Iowa State University
-Jackson State University,Main Campus
-James Madison University,Main Campus-Harrisonburg
-Jefferson College of Health Sciences,JCHS Main Campus
-Johns Hopkins University,JHU  HOMEWOOD  CAMPUS- BALTIMORE- MARYLAND
-Johnson County Community College,Main Campus
-Kennesaw State University,Main Campus
-Kent State University at Kent,Main Campus
-Lake Forest College,Main Campus
-Lenoir Community College,Lenoir Community college Green County
-Lewis & Clark College,Main Campus
-Lincoln Technical Institute-East Windsor,Lincoln Technical Institute
-Louisiana State University Health Sciences Center-Shreveport,Main Campus
-Marquette University,Main Campus
-Massasoit Community College,Main Campus
-Massasoit Community College,Middleborough Campus
-McDaniel College,Main Campus
-Mercy College,Mercy College - Dobbs Ferry Campus
-Miami University-Oxford,Miami University-Oxford (204024)
-Michigan State University,Main Campus
-Michigan Technological University,Main Campus
-Midwestern State University,Main Campus
-Missouri State University-Springfield,Springfield Campus
-Montana State University,Main Campus
-Montgomery College,Montgomery College:Takoma Park/Silver Spring
-Montreat College,Montreat Campus
-Morgan State University,Main Campus
-Murray State University,Main Campus
-Nebraska Wesleyan University,Main Campus
-New York University,NYU Main Campus
-Niagara County Community College,Niagara Falls Culinary Institute
-North Carolina State University at Raleigh,Main Campus
-North Dakota State University-Main Campus,Main Campus
-Northern Illinois University,Main Campus
-Northern Virginia Community College,Pitney Bowes Building
-Northwest Nazarene University,Main Campus
-Northwestern University,Main Campus
-Ohio Northern University,Main Campus
-Ohio State University-Main Campus,Main Campus
-Ohio University-Main Campus,Ohio University - Main Campus
-Pennsylvania State University-Main Campus,University Park Campus
-Pittsburgh Technical Institute,Main Campus
-Purdue University-Main Campus,Main Campus
-Quinsigamond Community College,Main Campus
-Regis University,Northwest Denver Campus
-Robert Morris University Illinois,ROBERT MORRIS UNIVERSITY ILLINOIS - MAIN CAMPUS
-Rutgers University-New Brunswick,Main Campus
-Saint Cloud State University,Main Campus
-Saint Francis University,Main Campus
-Saint Mary's University of Minnesota,Twin  Cities Campus
-San Diego State University,Main Campus
-Santa Clara University,Main Campus - Santa Clara University
-Santa Fe Community College,SFCC
-School of the Art Institute of Chicago,Main Campus
-Scottsdale Community College,Main Campus
-Shasta College,Main Campus
-Shasta College,Shasta College - Tehama Campus
-Shenandoah University,Main Campus
-SIT Graduate Institute,Main Campus
-South Dakota School of Mines and Technology,Main Campus
-Southern Nazarene University,Main Campus
-Southwestern Illinois College,Belleville Campus
-St Francis College,Main Campus
-St Mary's University,Main Campus
-Stevens Institute of Technology,Main Campus
-SUNY College at Geneseo,SUNY at Geneseo
-SUNY College at Oswego,Main Campus
-SUNY College at Potsdam,Main Campus
-SUNY College of Environmental Science and Forestry,SUNY College of Environmental Science and Forestry
-Texas Southern University,Main Campus
-The Art Institute of Charleston,The Art Institute of Charleston
-The Art Institute of Las Vegas,The Art Institute of Las Vegas
-The Art Institute of Raleigh-Durham,The Art Institute of Raleigh-Durham
-The Art Institute of Tennessee-Nashville,The Art Institute of Tennessee-Nashville
-The Evergreen State College,Main Campus
-The Illinois Institute of Art-Schaumburg,The Illinois Institute of Art - Schaumburg
-The University of Alabama,Main Campus
-The University of Montana,Mountain Campus
-The University of Texas at Arlington,Main Campus
-The University of Texas at Austin,The University of Texas at Austin
+Welch College,Main Campus
+Wesleyan University,Main Campus
+West Virginia University Institute of Technology,Main Campus
+Western Illinois University,Macomb Campus
+Western Kentucky University,Western Kentucky University - Main Campus
+Williams College,Main Campus
+Wingate University,Wingate University (Main Campus)
+Worcester Polytechnic Institute,Main Campus
+Yeshiva University,RESNICK CAMPUS
+Abilene Christian University,MAIN - ABILENE CAMPUS
+Abraham Baldwin Agricultural College,Main Campus
+Academy of Art University,Main Campus
+Adelphi University,Main Campus
+Adirondack Community College,Main Campus
+Adrian College,Main Campus
+AI Miami International University of Art and Design,Miami International University of Art and Design
+Alabama A & M University,Main Campus
+Alaska Christian College,Alaska Christian College
+Albion College,Main Campus
+Albright College,Blue Bell Campus
+Albright College,Media Campus
+Alexandria Technical & Community College,Alexandria Technical and Community College
+Alliant International University-San Diego,San Diego Campus
+Alma College,Main Campus
+Alvernia University,Main Campus
+American River College,Main Campus
+Amherst College,Main Campus
+Anderson University,Main Campus
+Angelo State University,Main Campus
+Aquinas College,Main Campus
+Arizona State University-Tempe,Polytechnic Campus
+Arizona Western College,Main Campus
+Arkansas State University-Main Campus,Arkansas State University-Jonesboro
+Arkansas Tech University,Main Campus
+Arnot Ogden Medical Center,Main Campus
+Ashford University,Iowa Campus
+Atlanta Metropolitan State College,Main Campus
+Auburn University,Main Campus
+Augsburg College,Main Campus
+Augustana College,Main Campus
+Aultman College of Nursing and Health Sciences,Aultman College of Nursing and Health Sciences
+Aurora University,Main Campus
+Austin Peay State University,Main Campus
+Aveda Institute-Minneapolis,Main Campus
+Averett University,Main Campus
+Azusa Pacific University,Azusa (main campus)
+Babson College,Main Campus
+Bainbridge State College,Bainbridge State College
+Baker College of Clinton Township,BAKER COLLEGE OF CLINTON TOWNSHIP
+Baker College of Flint,BAKER COLLEGE OF FLINT
+Baker University,Main Campus
+Baldwin Wallace University,Main Campus
+Ball State University,Main Campus
+Baltimore City Community College,Liberty Campus
+Bard College,Main Campus
+Bard College at Simon's Rock,Main Campus
+Barnard College,Main Campus
+Barton College,Main Campus
+Barton County Community College,Barton County Community College
+Becker College,Leicester
+Bellarmine University,Main Campus
+Belmont Abbey College,Main Campus
+Benedictine University,Main Campus
+Bennington College,Main Campus
+Berea College,Main Campus
+Berkeley College-Woodland Park,Main Campus
+Berklee College of Music,Main Campus - Boston
+Big Bend Community College,Main Campus
+Biola University,Main Campus
+Blackstone Valley Vocational Regional School District,Blackstone Valley Regional Technical High School
+Blinn College,Main Campus
+Bloomsburg University of Pennsylvania,Main Campus
+Bluffton University,Main Campus
+Boise State University,Main Campus
+Boise State University,Boise State University - College of Southern Idaho Extension
+Boston University,Boston University Charles River Campus
+Bowie State University,Main Campus
+Bowling Green State University-Main Campus,Main Campus
+Bradley University,Main Campus
+Brandeis University,Main Campus
+Brandman University,Brandman University - Santa Clarita Campus
+Brescia University,Main Campus
+Briar Cliff University,Main Campus
+Bridgewater College,Main Campus
+Bridgewater State University,Main Campus
+Brigham Young University-Idaho,BYU-Idaho
+Brigham Young University-Provo,Brigham Young University (230038)
+Bristol Community College,Main Campus
+Brite Divinity School,Brite Divinity School
+Brown Mackie College-Boise,Brown Mackie College - Boise
+Brown University,Main Campus
+Bryant University,Main Campus
+Bryn Mawr College,Main Campus
+Bucknell University,Bucknell University- Main Campus
+Buena Vista University,Main Campus and GPS sites
+Cabrini College,Main Campus
+Caldwell University,Main Campus
+California Baptist University,Main Campus
+California College of the Arts,Oakland Campus
+California Institute of the Arts,Main Campus
+California State Polytechnic University-Pomona,Main Campus
+California State University-Channel Islands,California State University Channel Islands
+California State University-East Bay,Main Campus
+California State University-Long Beach,Main Campus
+California State University-Los Angeles,California State University- Los Angeles
+California State University-Monterey Bay,California State University- Monterey Bay
+California State University-San Marcos,Main Campus
+California State University-Stanislaus,CSU Stanislaus - Turlock
+California Western School of Law,California Western School of Law
+Career and Technology Education Centers of Licking County,Career & Technology Education Centers Licking Coun
+Carl Albert State College,Carl Albert State College
+Carlow University,Main Campus
+Carroll College,Main Campus
+Carroll University,Main Campus
+Carson-Newman University,Main Campus
+Carthage College,Main Campus
+Castleton State College,Main Campus
+Centenary College of Louisiana,Main Campus
+Central Arizona College,Main Campus-Signal Peak
+Central Community College,Central  Community College-Columbus
+Central Connecticut State University,Main Campus
+Central Lakes College-Brainerd,Brainerd Campus
+Central Maine Community College,Main Campus
+Central Methodist University-College of Graduate and Extended Studies,Central Methodist University at Saint Charles
+Central Ohio Technical College,Central Ohio Technical College
+Central Oregon Community College,Main Campus - Bend
+Central Penn College,Main Campus
+Central Piedmont Community College,CPCC CENTRAL CAMPUS
+Centre College,Main Campus
+Cerritos College,Main Campus
+Champlain College,Main Campus
+Chandler-Gilbert Community College,CGCC/Williams Campus
+Chapman University,Main Campus
+Chemeketa Community College,Main Campus
+Cheyney University of Pennsylvania,Main Campus
+Christopher Newport University,Main Campus
+Cincinnati State Technical and Community College,Main Campus
+Cisco College,Main Campus
+Citadel Military College of South Carolina,The Citadel
+City Colleges of Chicago-Harold Washington College,City Colleges of Chicago-Harold Washington College
+City Colleges of Chicago-Harry S Truman College,Main Campus
+Claremont McKenna College,Main Campus
+Clarion University of Pennsylvania,Main Campus
+Clark College,Main Campus- West Coast Bank Building (CCE)
+Clayton  State University,Clayton State University
+Clover Park Technical College,Main Campus
+Cogswell College,Main Campus
+Coker College,Main Campus
+Colby Community College,Main Campus
+Colby-Sawyer College,Main Campus
+Colgate University,Main Campus
+College of Charleston,Main Campus
+College of Coastal Georgia,Main Campus
+College of DuPage,Main Campus
+College of Lake County,Grayslake Campus
+College of Mount Saint Vincent,College of Mount Saint Vincent
+College of Saint Benedict,College of Saint Benedict - Main Campus
+College of Southern Idaho,CSI Main Campus
+College of Southern Nevada,Main Campus
+College of St Joseph,Main Campus
+College of the Desert,Main Campus
+College of the Holy Cross,Main Campus
+College of the Ouachitas,Main Campus
+College of William and Mary,Main Campus
+Colorado Christian University,Main Campus
+Colorado Heights University,Colorado Heights University
+Colorado Mesa University,Colorado Mesa University - Main Campus
+Colorado Northwestern Community College,CNCC Rangely Campus
+Colorado School of Mines,Main Campus
+Columbia College,Main Campus
+Columbia University in the City of New York,Morningside Campus
+Columbia University in the City of New York,Columbia University Medical Center
+Columbus College of Art and Design,Main Campus
+Columbus State University,RiverPark Campus
+Columbus Technical College,Columbus Technical College
+Community College of Aurora,Lowry Campus
+Community College of Denver,CCD Auraria
+Concordia College-New York,Main Campus
+Concordia University-Chicago,Main Campus
+Concordia University-Irvine,Main Campus
+Concordia University-Portland,Main Campus
+Concordia University-Saint Paul,Main Campus
+Covenant College,Main Campus
+Covenant School of Nursing and Allied Health,Main Campus
+Craven Community College,New Bern
+Creighton University,Main Campus
+Culinary Institute of America,The Culinary Institute of America - Main Campus
+Culver-Stockton College,Main Campus
+CUNY Bernard M Baruch College,Main Campus
+CUNY Bronx Community College,Main Campus
+CUNY City College,The City College of New York
+CUNY LaGuardia Community College,LaGuardia Community College
+CUNY Queens College,Queens College
+CUNY Queensborough Community College,Queensborough Community College- CUNY
+Curry College,Main Campus
+Cuyahoga Community College District,Metropolitan Campus
+Cypress College,Main Campus
+Dalton State College,Main Campus
+Davenport University,Davenport University - Lettinga Campus
+Davenport University,Davenport University - Holland
+Davidson College,Main Campus
+Davis & Elkins College,Main Campus
+Daytona State College,Daytona State College Daytona Beach Campus
+Defiance College,Main Campus
+Delaware County Community College,Marple Campus
+Delaware State University,Main Campus
+Delaware Technical Community College-Stanton/Wilmington,Wilmington Campus
+Delta State University,Main Campus
+DePaul University,Main Campus - Lincoln Park Campus
+Des Moines Area Community College,Des Moines Area Com. Col. - Urban Campus
+DeSales University,DeSales University (Main Campus)
+Dominican College of Blauvelt,Main Campus
+Dominican University,Main Campus
+Drexel University,University City Campus
+East Central University,Main Campus
+East Stroudsburg University of Pennsylvania,Main Campus
+East-West University,Main Campus
+Eastern Illinois University,Main Campus
+Eastern Kentucky University,Main Campus
+Eastern Mennonite University,Main Campus
+Eastern New Mexico University-Main Campus,Main Campus
+Eastern Oregon University,Main Campus
+Eastern Washington University,EWU Main Campus
+Eastfield College,Main Campus
+Eastfield College,Pleasant Grove Campus
+Eckerd College,Main Campus
+Edinboro University of Pennsylvania,Main Campus
+El Camino Community College District,Main Campus
+El Paso Community College,VALLE VERDE CAMPUS (VV)
+Elgin Community College,Spartan Drive Campus
+Elizabethtown College,Main Campus
+Elmhurst College,Main Campus
+Elmira College,Main Campus
+Emerson College,Main Campus
+Emerson College,Emerson College European Center
+Emory University,Emory University Hospital Midtown Campus
+Endicott College,Main Campus
+Evergreen Valley College,Evergreen Valley Community College
+Fairleigh Dickinson University-College at Florham,Florham
+Ferris State University,Ferris at Delta College
+Ferris State University,Ferris at Muskegon Community College
+Fisher College,Main Campus
+Fitchburg State University,Main Campus
+Florida Agricultural and Mechanical University,Main Campus
+Florida Atlantic University,Boca Raton
+Florida Gulf Coast University,Main Campus
+Florida Institute of Technology,Main Campus
+Florida State College at Jacksonville,Kent
+Fond du Lac Tribal and Community College,Main Campus
+Forbes Road Career and Technology Center,Main Campus
+Fordham University,FORDHAM UNI-LINCOLN CENTER CAMPUS
+Francis Marion University,Main Campus
+Franciscan University of Steubenville,Main Campus
+Franklin Pierce University,Main Campus
+Franklin W Olin College of Engineering,Main Campus
+Fresno City College,Main Campus
+Frostburg State University,Main Campus
+Furman University,Main Campus
+Gallaudet University,Main Campus
+Gannon University,Main Campus
+Garden City Community College,Main Campus
+Gardner-Webb University,Main Campus
+Geneva College,Main Campus
+George C Wallace State Community College-Hanceville,Main Campus
+George Fox University,Main Campus
+George Mason University,Main Campus
+George Mason University,Science and Technology Campus
+Georgetown University,Georgetown University Main Campus
+Georgetown University,Education City- Doha- Qatar
+Georgia College and State University,Milledgeville West Campus
+Georgia Gwinnett College,Main campus
+Georgia Military College,Main Campus
+Georgia Regents University,Main Campus
+Georgia Regents University,GRU Summerville Campus - Augusta
+Georgia Southern University,Main Campus
+Germanna Community College,Fredericksburg Area Campus
+Glendale Community College,Main Campus
+Glenville State College,Main Campus
+Goddard College,Main Campus
+Gonzaga University,Main Campus
+Goodwin College,Main Campus
+Gordon College,Fowler Campus
+Gordon State College,Main Campus
+Goucher College,Main Campus
+Governors State University,Main Campus
+Grady Health System Professional Schools,Main Campus
+Grand Valley State University,Robert C. Pew Campus (Grand Rapids)
+Grand Valley State University,Muskegon Regional Center at Muskegon Community College
+Grand View University,Main Campus
+Grinnell College,Main Campus
+Gwynedd Mercy University,Main Campus
+Hagerstown Community College,Main Campus
+Hamline University,Main Campus
+Hampden-Sydney College,Main Campus
+Harding University,Main Campus
+Harrisburg Area Community College-Harrisburg,Harrisburg Area Community College Lancaster Campus
+Harvard University,Longwood Campus
+Harvey Mudd College,Main Campus
+Haskell Indian Nations University,Main campus
+Haverford College,Main Campus
+Heidelberg University,Main Campus
+Hendrix College,Main Campus
+High Point University,Main Campus
+Hilbert College,Main Campus
+Hillsborough Community College,Dale Mabry Campus
+Hobart William Smith Colleges,Main Campus
+Hofstra University,Main Campus
+Holy Cross College,Main Campus
+Holyoke Community College,Holyoke Community College
+Houston Community College,Central College - Midtown Campus
+Howard University,Howard University Main Campus
+Hult International Business School,Boston Campus
+Huntingdon College,Main Campus
+Huntington University,Main Campus
+Huston-Tillotson University,Huston-Tillotson University
+Idaho State University,ISU -- Pocatello
+Ilisagvik College,Ilisagvik College
+Illinois Central College,Peoria North Campus
+Illinois College,Main Campus
+Illinois Institute of Technology,Main Campus
+Illinois State University,Main Campus
+Illinois Wesleyan University,Main Campus
+Immaculata University,Main Campus
+Indian Hills Community College,Ottumwa Campus
+Indiana State University,Main Campus
+Indiana University of Pennsylvania-Main Campus,Main Campus
+Indiana University-Purdue University-Fort Wayne,Main Campus
+Indiana University-Purdue University-Indianapolis,IUSM – Bloomington
+Indiana University-Purdue University-Indianapolis,IUSM – Evansville
+Indiana University-Purdue University-Indianapolis,IUSM – Ft. Wayne
+Indiana University-Purdue University-Indianapolis,IUSM – Lafayette
+Indiana University-Purdue University-Indianapolis,IUSM – Muncie
+Indiana University-Purdue University-Indianapolis,IUSM – South Bend
+Indiana University-Purdue University-Indianapolis,IUSM – Terre Haute
+Indiana University-South Bend,Main Campus
+Institute of American Indian and Alaska Native Culture,Main Campus
+Inter American University of Puerto Rico-Ponce,PONCE CAMPUS
+Iowa Central Community College,Main Campus
+Iowa Western Community College,Main Campus
+Ithaca College,Main Campus
+Ivy Tech Community College,Ivy Tech Central Indiana Main Campus
+Jacksonville State University,Main Campus
+James Sprunt Community College,Main Campus
+Jefferson Community and Technical College,Main Campus
+Jefferson Community College,Main Campus
+John Carroll University,Main Campus
+Johns Hopkins University,Johns Hopkins Medical Institutions- Baltimore- Md.
+Johnson & Wales University-Charlotte,Johnson & Wales University -- Charlotte Campus
+Johnson & Wales University-Denver,Johnson & Wales University -- Denver Campus
+Johnson & Wales University-Providence,Main Campus
+Johnson C Smith University,Main Campus  Johnson C. Smith University
+Joseph F McCloskey School of Nursing at Schuylkill Health,Main Campus
+Judson University,Elgin Campus
+Juniata College,Main Campus
+Kalamazoo Valley Community College,KALAMAZOO VALLEY COMMUNITY COLLEGE ARCADIA COMMONS
+Kapiolani Community College,Brian Furuto
+Keiser University-Ft Lauderdale,KEISER UNIVERSITY- Miami
+Kennesaw State University,Kennesaw State University Marietta Campus
+Kent State University at Geauga,Regional Academic Center- Twinsburg
+Kenyon College,Main Campus
+Keuka College,Main Campus
+Kutztown University of Pennsylvania,Main Campus
+La Roche College,Main Campus
+Lake Erie College,Lake Erie College 01
+Lake Erie College of Osteopathic Medicine,Lecom - Seton Hill
+Landmark College,Main Campus
+Lane Community College,Main Campus
+Lane Community College,LCC at Downtown (Academic)
+Lasell College,Main Campus
+Lawrence Technological University,Lawrence Technological University
+Le Cordon Bleu College of Culinary Arts-Cambridge,Le Cordon Bleu College of Culinary Arts
+Le Moyne College,Main Campus
+Lebanon Valley College,Main Campus
+Lenoir Community College,Main Campus
+Lenoir-Rhyne University,Main Campus
+Lesley University,Doble Campus
+Liberty University,Main Campus
+Lincoln Christian University,Main Campus
+Lincoln College of New England-Southington,Main Campus
+Lincoln Technical Institute-Hartford,Lincoln Technical Institute - Hartford
+Linfield College-McMinnville Campus,Main Campus
+LIU Post,LIU Post
+Lock Haven University,Main Campus
+Lone Star College System,Lone Star College - Montgomery
+Lone Star College System,Lone Star College - Cy-Fair
+Loras College,Main Campus
+Los Angeles City College,Los Angeles City College
+Los Angeles Pierce College,Los Angeles Pierce College
+Los Angeles Southwest College,Los Angeles Southwest College
+Los Angeles Trade Technical College,Los Angeles Trade Technical College
+Louisburg College,Main Campus
+Louisiana State University and Agricultural & Mechanical College,Main Campus
+Louisiana State University-Alexandria,Main Campus
+Lourdes University,Lourdes University
+Loyola Marymount University,Westchester Campus
+Loyola University Chicago,Lake Shore Campus
+Loyola University Maryland,Loyola University Maryland
+Loyola University New Orleans,Main Campus
+Luther College,Main Campus
+Lycoming College,Main Campus
+Lynchburg College,Main Campus
+Lyndon State College,Main Campus
+Lynn University,Main Campus
+Madonna University,Main Campus
+Maine Maritime Academy,Main Campus
+Manhattan College,Main Campus
+Manhattan School of Music,Main Campus
+Manhattanville College,Main Campus
+Mansfield University of Pennsylvania,Main Campus
+Marinello Schools of Beauty-Burbank,Marinello School of Beauty-Palmdale
+Marinello Schools of Beauty-Los Angeles,Marinello School of Beauty-El Cajon
+Marion Military Institute,Main Campus
+Marist College,Main Campus
+Marlboro College,Main Campus
+Martin Luther College,Main Campus
+Maryville College,Main Campus
+Maryville University of Saint Louis,Maryville University of Saint Louis
+Massachusetts College of Art and Design,Main Campus
+Massachusetts College of Liberal Arts,Main Campus
+Massachusetts General Hospital Dietetic Internship,Main Campus
+Mayo Graduate School,Main Campus
+Mayville State University,Main Campus
+McKendree University,Main Campus
+McMurry University,Main Campus
+McPherson College,Main Campus
+Medaille College,Main Campus
+Medical University of South Carolina,Main Campus
+Menlo College,Menlo Campus
+Mercer University,Macon Campus
+Merrimack College,Main Campus
+Metropolitan Community College-Kansas City,Metropolitan Community College-Longview Campus
+Metropolitan State University of Denver,Main Campus
+Miami University-Middletown,Miami University-Middletown (204015)
+Michigan Career and Technical Institute,Michigan Career & Technical Institution
+Michigan State University-College of Law,Main Campus
+Mid-Plains Community College,South Campus
+MidAmerica Nazarene University,Main Campus
+Middle Georgia State College,Dublin
+Middle Tennessee State University,Main Campus
+Middlesex County College,Main Campus
+Miles Community College,Main Campus
+Millersville University of Pennsylvania,Main Campus
+Minneapolis Community and Technical College,Main Campus
+Minnesota State Community and Technical College,Main Campus - M State Fergus Falls campus
+Minnesota State University Moorhead,Main Campus
+Minnesota State University-Mankato,Main Campus
+MiraCosta College,MiraCosta Community College District Oceanside Campus
+Mississippi State University,Main Campus
+Mississippi Valley State University,Main Campus
+Missouri Southern State University,Main Campus
+Missouri Valley College,Main Campus
+Missouri Western State University,Main Campus
+Modesto Junior College,MJC/East Campus
+Modesto Junior College,MJC/West Campus and YCCD District Offices
+Mohawk Valley Community College,Main Campus
+Montclair State University,Main Campus
+Monterey Peninsula College,Monterey Campus
+Montgomery College,Montgomery College:Main Campus
+Montgomery College,Montgomery College:Germantown
+Montgomery County Community College,Montgomery County Community College Central Campus
+Moorpark College,Main Campus
+Morrisville State College,Morrisville State College
+Mount Aloysius College,Main Campus
+Mount Holyoke College,Main Campus
+Mount Ida College,Main Campus
+Mount Saint Joseph University,Main Campus
+Mount St Mary's University,Main Campus
+Mt San Antonio College,Main Campus
+Muskegon Community College,Main Campus
+Nassau Community College,Main Campus
+Navarro College,Main Campus
+Nazareth College,Main Campus
+Neumann University,Main Campus
+New College of Florida,New College of Florida
+New England College,Main Campus
+New England School of Communications,Husson University
+New Jersey City University,Main Campus
+New Jersey Institute of Technology,Main Campus
+New Mexico Institute of Mining and Technology,Main Campus
+New Mexico Military Institute,New Mexico Military Institute
+New Mexico State University-Carlsbad,Main Campus
+New Mexico State University-Dona Ana,Main Campus
+New Mexico State University-Grants,Grants Campus
+New Mexico State University-Main Campus,Main Campus
+New York Conservatory for Dramatic Arts,Main Campus
+New York University,NYU Polytechnic School of Engineering
+NHTI-Concord's Community College,Main Campus
+Niagara County Community College,Main Campus
+Niagara University,Main Campus
+Nicholls State University,Main Campus
+Nichols College,Main Campus
+North Carolina A & T State University,North Carolina A&T State University
+North Carolina Wesleyan College,Main Campus
+North Central College,Main Campus
+North Central State College,North Central State College
+North Dakota State College of Science,Main Campus
+North Hennepin Community College,Main Campus
+North Idaho College,Main Campus
+North Park University,Main Campus
+Northampton County Area Community College,Main Campus
+Northeast Texas Community College,Main Campus
+Northeastern Junior College,Main Campus
+Northeastern Oklahoma A&M College,Main Campus
+Northeastern State University,Tahlequah
+Northern Arizona University,Flagstaff Mountain Campus
+Northern Kentucky University,Main Campus
+Northern Virginia Community College,Arlington Center
+Northwest Kansas Technical College,Northwest Kansas Technical College
+Northwestern Michigan College,Main Campus
+Northwestern Oklahoma State University,Main Campus
+Northwestern State University of Louisiana,Main Campus
+Northwestern University,Graduate
+Northwestern University,Education City- Qatar
+Norwich University,Main Campus
+Notre Dame College,Main Campus
+Notre Dame de Namur University,Main Campus
+Oakland Community College,Royal Oak
+Oberlin College,Main Campus
+Ogden-Weber Applied Technology College,Ogden-Weber Applied Technology College
+Ohio Dominican University,Main Campus
+Ohio State University-Mansfield Campus,Ohio State University - Mansfield Campus
+Ohio State University-Newark Campus,The Ohio State University NEWARK CAMPUS
+Ohio Wesleyan University,Main Campus
+Oklahoma City Community College,Main Campus
+Oklahoma Panhandle State University,Main Campus
+Oklahoma State University Institute of Technology,Main Campus
+Oklahoma State University-Main Campus,Oklahoma State University - Stillwater
+Olivet College,Main Campus
+Olympic College,Bremerton Campus
+Onondaga Community College,Main Campus
+Orange Ulster BOCES-Practical Nursing Program,Main Campus
+Oregon Institute of Technology,Main Campus
+Oregon State University-Cascades Campus,OREGON STATE UNIVERSITY-CASCADES
+Otterbein University,Main Campus
+Ouachita Baptist University,Main Campus
+Our Lady of the Lake University,Main Campus OUR LADY OF THE LAKE UNIVERSITY
+Pace University-New York,Pleasantville/Briarcliff
+Pacific Lutheran University,Main Campus
+Pacific Northwest College of Art,PNCA
+Pacific Northwest College of Art,The Bison Building
+Pacific University,Forest Grove Campus
+Palm Beach State College,Palm Beach Gardens Campus
+Paris Junior College,Main Campus
+Park West Barber School,Main Campus
+Pasadena City College,Pasadena City College - Main Campus
+Pasadena City College,Rosemead Campus
+Paul Smiths College of Arts and Science,Paul Smith's College Main Campus
+Pearl River Community College,Main Campus
+Pennsylvania College of Technology,Main Campus
+Pennsylvania State University-Penn State Altoona,Altoona Campus Penn State
+Pennsylvania State University-Penn State Erie-Behrend College,Behrend College Penn State
+Pennsylvania State University-Penn State Hazleton,Hazleton Campus Penn State
+Pennsylvania State University-Penn State Schuylkill,Schuylkill Campus Penn State
+Pepperdine University,Malibu - Main Campus
+Piedmont Technical College,Lex Walter's Campus
+Pierpont Community and Technical College,Pierpont Community and Technical College
+Pikes Peak Community College,Centennial Campus
+Plymouth State University,Main Campus
+Point Park University,Main Campus
+Pomona College,Main Campus
+Pontifical John Paul II Institute for Studies on Marriage and Family,Main Campus
+Portland Community College,Rock Creek Campus
+Portland Community College,Cascade Campus
+Potomac State College of West Virginia University,Potomac State College of WVU
+Prairie View A & M University,Main Campus
+Pratt Community College,Main Campus
+Prince George's Community College,Main Campus
+Purdue University-Calumet Campus,Main Campus
+Purdue University-Main Campus,Vincennes Campus
+Ramapo College of New Jersey,Main Campus
+Randolph-Macon College,Main Campus
+Redlands Community College,Main Campus
+Reed College,Main Campus
+Regency Beauty Institute-Akron,Regency Beauty Institute
+Regency Beauty Institute-Eastgate,Regency Beauty Institute
+Regency Beauty Institute-Roanoke,Regency Beauty Institute
+Regency Beauty Institute-Rockford,Regency Beauty Institute
+Regional West Medical Center School of Radiologic Technology,Main Campus
+Reinhardt University,Main Campus
+Rhode Island School of Design,Main Campus
+Rhodes College,Main Campus
+Richard Bland College of the College of William and Mary,Richard Bland College of the College of William and Mary
+Richland College,Main Campus
+Rider University,Main Campus
+Rider University,Westminster Choir College of Rider University
+River Valley Community College,Main Campus
+Riverland Community College,Main Campus
+Riverside City College,Riverside City College
+Robert Morris University,Main Campus
+Robeson Community College,Robeson Community College
+Rochester Community and Technical College,Rochester Community and Technical College
+Rochester Institute of Technology,Main Campus
+Rockford University,Main Campus
+Rockhurst University,Main Campus
+Roger Williams University,Roger Williams University Bristol- RI Campus
+Roger Williams University School of Law,Main Campus
+Rogers State University,Rogers State University
+Rogue Community College,RIVERSIDE CAMPUS
+Rollins College,Main Campus
+Roosevelt University,Chicago Campus
+Rosemont College,Main Campus
+Rowan University,Main Campus
+Rush University,Main Campus
+Rutgers University-Camden,Rutgers University-Camden Division
+Sacred Heart University,Main Campus
+Saint Ambrose University,Main Campus
+Saint Anselm College,Main Campus
+Saint Augustine's University,Main Campus
+Saint Edward's University,Main Campus
+Saint John Fisher College,Main Campus
+Saint Johns University,Main Campus
+Saint Joseph's University,Main Campus
+Saint Louis University,Main Campus
+Saint Louis University,Joe & Loretta Scott Law Center
+Saint Martin's University,Saint Martin's University Lacey Campus
+Saint Mary's College,Main Campus
+Saint Mary's College of California,Main Campus
+Saint Mary's University of Minnesota,Winona Campus Saint Mary's University of Minnesota
+Saint Michael's College,Main Campus
+Saint Norbert College,Main Campus
+Saint Paul School of Theology,Saint Paul at Oklahoma City University
+Saint Peter's University,Main Campus
+Saint Xavier University,Chicago Campus
+Salem College,Salem Academy and College
+Salisbury University,Main Campus
+Salt Lake Community College,Taylorsville Redwood Campus
+Salve Regina University,Main Campus
+Sam Houston State University,Main Campus
+San Antonio College,Main Campus
+San Diego City College,Main Campus
+San Diego Mesa College,Main Campus
+San Francisco State University,Main Campus
+San Jacinto Community College,South Campus
+Santa Monica College,Main Campus
+Savannah College of Art and Design,Main Campus - Savannah
+Savannah College of Art and Design,Savannah College of Art and Design-Atlanta
+Savannah Technical College,Savannah Campus
+Schreiner University,Main Campus
+Scripps College,Main Campus
+Seattle Pacific University,Main Campus
+Seton Hall University,Main Campus
+Seton Hill University,Main Campus
+Sewanee-The University of the South,Main Campus
+Shawnee State University,Main Campus
+Shimer College,Chicago
+Shippensburg University of Pennsylvania,Main Campus
+Siena College,Main Campus
+Simmons College,Main Campus
+Sinclair Community College,Dayton Campus
+Slippery Rock University of Pennsylvania,Main Campus
+South Dakota State University,Main Campus
+Southeast Community College Area,Southeast Community College-Lincoln
+Southeast Technical Institute,Main Campus
+Southeastern Oklahoma State University,Main Campus
+Southern Arkansas University Main Campus,Main Campus
+Southern Connecticut State University,Main Campus
+Southern Crescent Technical College,Griffin Campus
+Southern Illinois University-Edwardsville,Edwardsville Campus
+Southern Illinois University-Edwardsville,SIUE School of Nursing Program at Carbondale
+Southern Methodist University,Main Campus
+Southern New Hampshire University,Main Campus
+Southern Oregon University,Ashland Campus
+Southern University and A & M College,SOUTHERN UNIVERSITY-BATON ROUGE
+Southern University Law Center,Main Campus(Law Center)
+Southern Vermont College,Main Campus
+Southern Wesleyan University,Main Campus
+Southwest Collegiate Institute for the Deaf,SouthWest Colligate Institute for the Deaf
+Southwest Tennessee Community College,Union Avenue Campus
+Southwestern Michigan College,Main Campus
+Southwestern University,Main Campus
+Spartan College of Aeronautics and Technology,Tulsa Main Campus
+Spartanburg Methodist College,Main Campus
+Spring Arbor University,Main Campus
+Springfield Technical Community College,Main Campus
+St Bonaventure University,Main Campus
+St John's University-New York,Main Campus
+St Olaf College,Main Campus
+St Petersburg College,St. Petetersburg College-Gibbs Campus
+St. Gregory's University,Main Campus
+St. Thomas Aquinas College,Main Campus
+State University of New York at New Paltz,State University of New York- College at New Paltz
+Stetson University,Main Campus
+Stonehill College,Main Campus
+Styletrends Barber and Hairstyling Academy,Main Campus
+Sul Ross State University,Main Campus
+Sullivan County Community College,Main Campus
+SUNY at Binghamton,Main Campus
+SUNY at Fredonia,Main Campus
+SUNY at Purchase College,Main Campus
+SUNY Broome Community College,Main Campus
+SUNY College at Brockport,Main Campus
+SUNY College at Cortland,Main Campus
+SUNY College at Old Westbury,SUNY College at Old Westbury
+SUNY College at Plattsburgh,Main Campus
+SUNY College at Plattsburgh,Queensbury
+SUNY College of Agriculture and Technology at Cobleskill,Main Campus
+SUNY College of Technology at Alfred,Alfred State College - Alfred Campus
+SUNY College of Technology at Canton,Main Campus
+SUNY College of Technology at Delhi,Main Campus
+SUNY Institute of Technology at Utica-Rome,Utica Campus
+Susquehanna University,Main Campus
+Swarthmore College,Main Campus
+Sweet Briar College,Main Campus
+Tallahassee Community College,Florida Public Safety Institute
+Tarleton State University,Main Campus
+Tarrant County College District,South Campus
+Tarrant County College District,Southeast Campus
+Tarrant County College District,Trinity River Campus
+Teachers College at Columbia University,Main Campus
+Tennessee State University,Main Campus
+Texas A & M University-Commerce,Main Campus
+Texas A & M University-Corpus Christi,Main Campus
+Texas A & M University-Kingsville,Texas A&M University Kingsville
+Texas A & M University-Texarkana,Texas A&M University-Texarkana at Bringle Lake
+Texas Christian University,Main Campus
+Texas Lutheran University,Main Campus
+Texas State Technical College-Waco,Waco Campus
+Texas State University,Main Campus
+Texas Woman's University,Main Campus
+The Art Institute of Atlanta,The Art Institute of Atlanta
+The Art Institute of Phoenix,The Art Institute of Phoenix
+The Art Institute of Seattle,The Art Institute of Seattle
+The College of New Jersey,Main Campus
+The College of Saint Scholastica,Main Campus
+The College of Wooster,Main Campus
+The New England Conservatory of Music,New England Conservatory of Music
+The Restaurant School at Walnut Hill College,Main Campus
+The Sage Colleges,Russell Sage College for Women
+The University of Findlay,Main Campus
+The University of Montana-Western,University of Montana Western
+The University of Tennessee-Knoxville,Main Campus
+The University of Tennessee-Martin,Main Campus
+The University of Texas at Brownsville,UTB/TSC Main Campus
+The University of Texas at Dallas,Main Campus
+The University of Texas at El Paso,Main Campus
+The University of Texas of the Permian Basin,UTPB - Main Campus
+The University of Texas-Pan American,University of Texas Pan American
+The University of the Arts,Main Campus
+The University of Virginia's College at Wise,University of Virginia's College at Wise
+The University of West Florida,Main Campus
+Thiel College,Main Campus - Thiel College
+Three Rivers Community College,Main Campus
+Trinity Baptist College,Main Campus
+Trinity Bible College,Trinity Bible College
+Trinity International University-Illinois,Deerfield Campus
+Tufts University,Medford/Somerville Campus
+Tufts University,Boston Campus
+Tulane University of Louisiana,Tulane University Health Sciences Center Campus
+Tulsa Community College,Metro Campus
+Tusculum College,Main Campus
+Ulster County Community College,Stone Ridge Campus
+Union College,Main Campus
+United States Merchant Marine Academy,Main Campus
+Universal Technical Institute of California Inc,UNIVERSAL TECHNICAL INSTITUTE OF CALIFORNIA- INC
+University of Alabama at Birmingham,Main Campus
+University of Alabama in Huntsville,Main Campus
+University of Alaska Anchorage,Anchorage Campus
+University of Alaska Anchorage,Kenai Peninsula College - Kenai River Campus
+University of Arkansas,Main Campus
+University of Arkansas at Monticello,University of Arkansas at Monticello
+University of Arkansas at Pine Bluff,UAPB - University of Arkansas at Pine Bluff
+University of Arkansas for Medical Sciences,University of Arkansas for Medical Sciences
+University of Arkansas-Fort Smith,Main Campus
+University of Bridgeport,Main Campus
+University of California-Davis,UC Davis Medical Center
+University of California-Irvine,UCI Medical Center
+University of California-Merced,Main Campus
+University of California-San Diego,Main Campus
+University of California-San Francisco,Main Campus - Parnassus
+University of California-San Francisco,Children's Hospital - Oakland
+University of Central Arkansas,Main Campus
+University of Central Florida,UCF Daytona Beach
+University of Central Missouri,Main Campus
+University of Central Oklahoma,Main Campus
+University of Charleston,Main Campus
+University of Cincinnati-Blue Ash College,Main Campus
+University of Colorado Colorado Springs,University of Colorado Colorado Springs
+University of Colorado Denver,University of Colorado Denver - Downtown
+University of Colorado Denver,UCDHSC - Anschutz Medical Campus
+University of Connecticut,Main Campus
+University of Connecticut,University of Connecticut School of Medicine and Dentistry
+University of Dallas,Main Campus
+University of Dayton,Main Campus
+University of Delaware,Main Campus
+University of Denver,University Park Campus
+University of Evansville,Main Campus
+University of Guam,UOG Main Campus
+University of Hartford,Main Campus
+University of Hawaii at Hilo,University of Hawaii at Hilo
+University of Houston-Victoria,University of Houston-Victoria
+University of Illinois at Chicago,University of Illinois at Chicago East Campus
+University of Illinois at Chicago,University of Illinois at Chicago West Campus
+University of Illinois at Springfield,University of Illinois at Springfield
+University of Kentucky,University of KY
+University of Kentucky,North Farms Campus
+University of La Verne,MAIN CAMPUS
+University of Louisiana at Monroe,Main Campus
+University of Louisville,Main Campus
+University of Maine at Fort Kent,Main Campus
+University of Mary,Main Campus
+University of Mary Hardin-Baylor,Main Campus
+University of Maryland Eastern Shore,Main Campus
+University of Maryland-Baltimore County,Main Campus
+University of Maryland-College Park,Main Campus
+University of Massachusetts Medical School Worcester,University of Massachusetts Medical School - Worcester
+University of Massachusetts-Boston,Harbor Campus
+University of Memphis,Main Campus
+University of Miami,Medical Campus
+University of Michigan-Dearborn,Main Campus
+University of Michigan-Flint,Main Campus
+University of Minnesota-Crookston,Crookston Campus
+University of Minnesota-Twin Cities,Saint Paul
+University of Missouri-Kansas City,Main Campus
+University of Nebraska at Kearney,University of Nebraska at Kearney
+University of Nebraska at Omaha,Main Campus
+University of New England,Main Campus
+University of New Mexico-Main Campus,Main Campus
+University of North Carolina at Asheville,University of North Carolina Asheville
+University of North Carolina at Charlotte,Main Campus
+University of North Carolina at Greensboro,UNCG - Main Campus
+University of North Carolina at Pembroke,Main Campus
+University of North Carolina School of the Arts,Main Campus
+University of North Carolina Wilmington,Main Campus
+University of North Florida,Main Campus
+University of North Texas,Main Campus
+University of Northern Colorado,Main Campus
+University of Northern Iowa,Main Campus
+University of Northwestern Ohio,University of Northwestern Ohio
+University of Northwestern-St Paul,Main Campus
+University of Notre Dame,Main Campus
+University of Pennsylvania,Main Campus
+University of Pittsburgh-Bradford,Bradford Campus
+University of Pittsburgh-Johnstown,University of Pittsburgh at Johnstown
+University of Pittsburgh-Pittsburgh Campus,Main Campus
+University of Pittsburgh-Titusville,Titusville Campus
+University of Portland,Main Campus
+University of Puerto Rico-Rio Piedras,University of Puerto Rico-Rio Piedras Campus
+University of Puget Sound,Main Campus
+University of Redlands,Main Campus
+University of Rhode Island,Main Campus
+University of Rio Grande,Main Campus
+University of Saint Joseph,West Hartford Campus
+University of South Alabama,Main Campus
+University of South Carolina-Aiken,University of South Carolina-Aiken
+University of South Carolina-Columbia,Main Campus
+University of South Carolina-Upstate,University Center - Greenville
+University of South Dakota,Main Campus
+University of Southern Indiana,Main Campus
+University of Southern Maine,Gorham Campus
+University of Southern Mississippi,Main Campus
+University of St Francis,Main Campus
+University of St Thomas,St. Paul Campus (Main Campus)
+University of St Thomas,Main Campus
+University of Texas Southwestern Medical Center,Main Campus
+University of the Ozarks,Main Campus
+University of the Pacific,Main Campus
+University of the Virgin Islands,St. Thomas Campus (Main Campus)
+University of Tulsa,Main Campus
+University of Valley Forge,Main Campus
+University of Wisconsin-Eau Claire,Main Campus
+University of Wisconsin-Green Bay,Main Campus
+University of Wisconsin-La Crosse,Main Campus
+University of Wisconsin-Parkside,University of Wisconsin-Parkside Main Campus
+University of Wisconsin-Stevens Point,Main Campus
+University of Wisconsin-Stout,Main Campus
+University of Wisconsin-Superior,Main Campus
+Ursinus College,Main Campus
+Utah State University,Main Campus
+Utah Valley University,Main Campus
+Valdosta State University,Main Campus
+Valley Forge Military College,Main Campus
+Vance-Granville Community College,Warren County Campus
+Vassar College,Main Campus
+Vermont Technical College,Main Campus
+Victor Valley College,Victor Valley College
+Villanova University,Main Campus
+Vincennes University,Main Campus
+Virginia Commonwealth University,Monroe Park Campus
+Virginia Commonwealth University,MCV Campus
+Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State Univ
+Virginia State University,Main Campus
+Virginia Union University,Main Campus
+Virginia Western Community College,Main Campus
+Volunteer State Community College,Main Campus
+Wabash College,Main Campus
+Wagner College,Main Campus
+Wake Forest University,Main Campus
+Wake Forest University,Bowman Gray Campus
+Waldorf College,Main Campus-Waldorf College
+Walsh University,Main Campus
+Warren County Career Center,Main Campus
+Wartburg College,Main Campus
+Washington & Jefferson College,Main Campus
+Washington and Lee University,Main Campus
+Washington University in St Louis,Medical School Campus
+Watkins College of Art Design & Film,Watkins College of Art- Design & Film
+Wayne County Community College District,Main Campus - Downtown
+Wayne State University,Main Campus
+Webster University,Webster University St. Louis-Main Campus
+Webster University,Webster University at Geneva
+Weill Cornell Medical College,Qatar Campus
+Wellesley College,Main Campus
+Wentworth Institute of Technology,Main Campus
+Wesleyan College,Main Campus
+West Chester University of Pennsylvania,Main Campus
+West Liberty University,Main Campus
+West Texas A & M University,Main Campus
+West Virginia State University,Main Campus
+West Virginia Wesleyan College,Main Campus
+Western Carolina University,Main Campus
+Western Connecticut State University,Mid Town Campus
+Western Connecticut State University,West Side Campus
+Western Iowa Tech Community College,Sioux City Campus
+Western Michigan University,Muskegon Regional Center
+Western New England University,Main Campus
+Western New Mexico University,Main Campus
+Western Oregon University,Main Campus
+Western Texas College,Western Texas College
+Western Wyoming Community College,Main Campus
+Westfield State University,Main Campus
+Westwood College-River Oaks,Westwood College
+Wharton County Junior College,Main Campus
+Wheaton College,Main Campus
+Wheeling Jesuit University,Main Campus
+Whittier College,Main Campus
+Wichita State University,Main Campus
+Widener University-Main Campus,Main Campus
+Wilberforce University,Main Campus
+Wiley College,Main Campus
+Willamette University,Main Campus
+William Jessup University,Main Campus
+William Paterson University of New Jersey,Main Campus
+William Penn University,William Penn University
+Wilmington College,Main Campus
+Wilson Community College,Wilson Community College
+Wisconsin Lutheran College,Main Campus
+Wittenberg University,Main Campus
+Wofford College,Main Campus
+Worcester State University,Main Campus
+Wright State University-Main Campus,Dayton (Main) Campus
+Yale University,Main Campus
+Youngstown State University,Main Campus
+Academy of Natural Therapy Inc,Main Campus
+Alliant International University-San Diego,San Fransisco Law School
+American Conservatory Theater,Main Campus
+Antonelli College-Cincinnati,ANTONELLI COLLEGE
+Antonelli College-Hattiesburg,ANTONELLI COLLEGE
+Antonelli College-Jackson,ANTONELLI COLLEGE
+Arcadia University,Christiana
+Ashland County-West Holmes Career Center,Main Campus
+ATS Institute of Technology,Chicago Campus
+Baldwin Park Adult & Community Education,Main Campus
+Beacon College,Main Campus
+Brandman University,Brandman University - Santa Maria Campus
+Capilo School of Hair Design,Main Campus
+Capital University,Capital University Law School
+Capri College-Dubuque,Capri College
+Carousel Beauty College-Kettering,Main Campus
+CET-Sobrato,CET-San Jose Main Campus
+Charleston School of Law,Charleston School of Law
+Charleston Southern University,Main Campus
+Chattanooga College Medical Dental and Technical Careers,Chattanooga College Medical- Dental- & Technical Careers
+Chicago State University,Main Campus
+City College of San Francisco,Civic Center Campus
+City Colleges of Chicago-Malcolm X College,Main Campus
+Clemson University,University Center of Greenville
+Colorado School of Traditional Chinese Medicine,Main Campus
+Community College of Philadelphia,Spring Garden Street (Main) Campus
+Compass Career College,Main Campus
+Coyne College,Main Campus
+CUNY Lehman College,Herbert H. Lehman College
+CUNY York College,YORK COLLEGE
+D'Youville College,Main Campus
+Dakota State University,Main Campus
+Employment Solutions-College for Technical Education,College for Technical Education - Main Campus
+Fashion Institute of Design & Merchandising-Los Angeles,Main Campus
+Fayette County Career & Technical Institute Practical Nursing Program,Main Campus
+Georgia Southwestern State University,Georgia Southwestern State University
+Graduate School USA,Main Campus
+Harris School of Business-Upper Darby Campus,Main Campus
+Holy Name Medical Center School of Nursing,Main Campus
+Hult International Business School,San Francisco Campus
+ITT Technical Institute-Boise,Main Campus
+ITT Technical Institute-Clovis,Main Campus
+ITT Technical Institute-Pensacola,Main Campus
+Kansas City University of Medicine and Biosciences,Main Campus
+Keiser University-Ft Lauderdale,Keiser University - Main Campus FTL
+Lancaster Bible College,Main Campus
+Latter-day Saints Business College,LDS Business College
+Le Moyne-Owen College,Main Campus
+Louisiana State University Health Sciences Center-New Orleans,Main Campus
+M T Training Center,Main Campus
+Massage Therapy Institute of Colorado,Main Campus
+McNally Smith College of Music,Main Campus
+Mercy College of Ohio,Mercy College of Ohio - Youngstown
+Moberly Area Community College,Columbia Higher Education Center
+National American University-Lewisville,Main Campus
+New Hampshire Institute of Art,Main Campus
+New River Community College,Mall Site
+North Seattle College,Main Campus
+Northampton County Area Community College,Northampton Community College -Monroe
+Orange County Community College,Newburgh Campus
+Oxford Academy of Hair Design Inc,Main Campus
+Pepperdine University,Florence Campus
+Portland Community College,Metro Center
+Ross Medical Education Center-Ann Arbor,Ross Medical Education Center
+Salt Lake Community College,LIBRARY SQUARE CAMPUS
+San Francisco Art Institute,Main Campus
+Santa Barbara City College,Main Campus
+Sentara College of Health Sciences,Main Campus
+Sierra Nevada College,Main Campus
+Signature Healthcare Brockton Hospital School of Nursing,Main Campus
+Skin Institute,Main Campus
+SUNY Empire State College,Newburgh
+SUNY Empire State College,Utica
+Temple University,Health Science Campus
+The Art Institute of Charlotte,The Art Institute of Charlotte
+The John Marshall Law School,Main Campus
+The University of Texas Medical Branch,Main Campus
+Trine University,Main Campus
+University of California-Hastings College of Law,Main Campus
+University of Delaware,Lewes
+University of Maine at Presque Isle,Main Campus
+University of Oregon,University of Oregon-Portland Campus
+University of Puerto Rico-Ponce,University of Puerto Rico in Ponce
+University of Southern Maine,Lewiston/Auburn College
+University of the District of Columbia,Van Ness Campus (Main/Flagship)
+University of the District of Columbia-David A Clarke School of Law,Flagship/Main Campus
+University of the Potomac-Washington DC Campus,Main Campus
+Utah State University,San Juan Campus
+Ventura College,Main Campus
+Washington County Community College,Main Campus
+Western Nebraska Community College,Main Campus
+Wisconsin Indianhead Technical College,WITC - Rice Lake Campus
+Wytheville Community College,Wytheville Community College Main Campus
+Yakima Valley Community College,Grand View Campus
+Yuba College,Yuba College- Marysville
