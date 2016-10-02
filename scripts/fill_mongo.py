@@ -32,7 +32,7 @@ for file in files:
 			campus_id = None
 
 			#for 2014 only
-			rapes = int(row[7].value) + int(row[9].value)
+			#rapes = int(row[7].value) + int(row[9].value)
 
 			#add to campuses document
 			cursor = db.campuses.find({"school_name" : row[2].value, "campus_name" : row[4].value})
@@ -59,7 +59,7 @@ for file in files:
 				#add to running total
 				result = db.rape_stats.update(
 						{ "campus_id" : campus_id },
-						{ "$inc" : { "total_offenses" : total, "rapes" : rapes } }
+						{ "$inc" : { "total_offenses" : total} }
 					)
 
 			#insert with campus_id corresponding to campus collection
@@ -72,7 +72,6 @@ for file in files:
 						"campus_name" : row[4].value,
 						"size" : row[5].value,
 						"total_offenses" : total,
-						"rapes" : rapes,
 					}
 					)
 				

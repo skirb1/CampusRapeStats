@@ -1,0 +1,3 @@
+mongoexport --db test --collection traffic --out traffic.json
+
+//try --out geoYEAR.geojson
