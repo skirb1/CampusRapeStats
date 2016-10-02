@@ -5,7 +5,7 @@ client = MongoClient()
 db = client.campus_crime
 campuses = db['campuses']
 
-with open("campusLatLong.csv") as csvfile :
+with open("campusLatLong2.csv") as csvfile :
 	myreader = csv.reader(csvfile, delimiter=",")
 	for row in myreader:
 
