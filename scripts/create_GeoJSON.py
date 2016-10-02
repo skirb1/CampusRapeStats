@@ -4,8 +4,8 @@ client = MongoClient()
 db = client.campus_crime
 campuses = db['campuses']
 
-rape_stats = db['rape_stats2014']
-geo_data = db['geo_data2014']
+rape_stats = db['rape_stats2011']
+geo_data = db['geo_data2011']
 
 if geo_data.find({}).count() == 0 :
 	geo_data.insert_one(
@@ -19,6 +19,9 @@ cursor = db.rape_stats.find({})
 
 for record_r in cursor :
 	cursor_c = campuses.find({ "_id": record_r['campus_id'] })
+	if cursor_c.count() == 0 :
+		continue
+
 	record_c = cursor_c[0]
 
 	latitude = float(record_c["lat"])
