@@ -25,10 +25,10 @@
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+   
+    <!-- Google maps style -->
+    <style>#map { height: 400px; width: 100%;} </style>
+
   </head>
 
   <body>
@@ -57,8 +57,30 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Map Coming Soon</h1>
+       
         <p class="lead">Visualization of campus rape statistics in the U.S.</p>
+
+        <!-- Google Map code -->
+        <div id="map"></div>
+        <script>
+          function initMap() {
+            var US_center = {lat: 39.8282, lng: -98.5795};
+            var map = new google.maps.Map(document.getElementById('map'), {
+              zoom: 4,
+              center: US_center
+            });
+            /*
+            var marker = new google.maps.Marker({
+              position: US_center,
+              map: map
+            });*/
+          }
+        </script>
+        <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdPeJ5xqsqtEboFnQktSEvtAcQ52W-xNM&callback=initMap">
+        </script>
+
+
       </div>
 
     </div><!-- /.container -->

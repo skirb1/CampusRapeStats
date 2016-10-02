@@ -1,0 +1,143 @@
+University of Southern California,University Park Campus
+Alabama State University,Main Campus
+American Musical and Dramatic Academy,Main Campus
+Appalachian State University,Main Campus
+Arcadia University,Main Campus
+Arizona State University-Tempe,Tempe Campus
+Arizona State University-Tempe,Downtown Phoenix Campus
+Baker College of Owosso,BAKER COLLEGE OF OWOSSO
+Baptist Health Schools-Little Rock,Main Campus
+Baptist Health System School of Health Professions,Main campus
+Baylor University,Main Campus
+Benedictine University,Benedictine University at Mesa
+Berkshire Community College,Main Campus
+Bethel College-Indiana,Main Campus
+Bethel University,Bethel University - Main Campus
+Bloomfield College,Main Campus
+Bowdoin College,Main Campus
+Bowling Green State University-Firelands,Firelands Campus
+Bunker Hill Community College,Main Campus
+California Institute of Technology,Main Campus
+California Polytechnic State University-San Luis Obispo,Main Campus
+California State University-Chico,Main Campus
+California State University-Fresno,Main Campus
+California State University-Fullerton,Main Campus
+California University of Pennsylvania,Main Campus
+Carnegie Mellon University,Main Campus
+Case Western Reserve University,Main Campus
+Central Michigan University,Main Campus
+Chaminade University of Honolulu,Chaminade University of Honolulu
+Clarkson University,Main Campus
+Clemson University,Main Campus
+Coastal Carolina University,Main Campus
+Colorado State University-Fort Collins,Main Campus
+Concordia College at Moorhead,Concordia College
+Cornell University,Statutory and Endowed Campus
+Cornell University,Cornell Tech
+CUNY Kingsborough Community College,Kingsborough Community College
+Cypress College,Culinary Arts Program
+Daemen College,Main Campus
+Dartmouth College,Dartmouth College  Main Campus
+DePauw University,Main Campus
+Dickinson College,Main Campus
+Drake University,Main Campus
+East Tennessee State University,Main Campus
+Emory & Henry College,Main Campus
+Evangel University,Main Campus
+Ferris State University,Main Campus
+Florida State University,Main Campus
+Framingham State University,Main Campus
+Franklin and Marshall College,Franklin and Marshall College Main Campus
+George Washington University,Main Campus
+Georgia College and State University,Milledgeville Main Campus
+Georgia Institute of Technology-Main Campus,Main Campus
+Georgia State University,Main Campus
+Gettysburg College,Main Campus
+Grand Rapids Community College,Main Campus
+Green River Community College,Main Campus
+Greenville Technical College,Barton [Main] Campus
+Harvard University,Cambridge Campus
+Hiram College,Main Campus
+Indiana University-Bloomington,Indiana University - Bloomington Campus
+Indiana University-Purdue University-Indianapolis,Main Campus
+Iowa Lakes Community College,Main Campus
+Iowa State University,Iowa State University
+Jackson State University,Main Campus
+James Madison University,Main Campus-Harrisonburg
+Jefferson College of Health Sciences,JCHS Main Campus
+Johns Hopkins University,JHU  HOMEWOOD  CAMPUS- BALTIMORE- MARYLAND
+Johnson County Community College,Main Campus
+Kennesaw State University,Main Campus
+Kent State University at Kent,Main Campus
+Lake Forest College,Main Campus
+Lenoir Community College,Lenoir Community college Green County
+Lewis & Clark College,Main Campus
+Lincoln Technical Institute-East Windsor,Lincoln Technical Institute
+Louisiana State University Health Sciences Center-Shreveport,Main Campus
+Marquette University,Main Campus
+Massasoit Community College,Main Campus
+Massasoit Community College,Middleborough Campus
+McDaniel College,Main Campus
+Mercy College,Mercy College - Dobbs Ferry Campus
+Miami University-Oxford,Miami University-Oxford (204024)
+Michigan State University,Main Campus
+Michigan Technological University,Main Campus
+Midwestern State University,Main Campus
+Missouri State University-Springfield,Springfield Campus
+Montana State University,Main Campus
+Montgomery College,Montgomery College:Takoma Park/Silver Spring
+Montreat College,Montreat Campus
+Morgan State University,Main Campus
+Murray State University,Main Campus
+Nebraska Wesleyan University,Main Campus
+New York University,NYU Main Campus
+Niagara County Community College,Niagara Falls Culinary Institute
+North Carolina State University at Raleigh,Main Campus
+North Dakota State University-Main Campus,Main Campus
+Northern Illinois University,Main Campus
+Northern Virginia Community College,Pitney Bowes Building
+Northwest Nazarene University,Main Campus
+Northwestern University,Main Campus
+Ohio Northern University,Main Campus
+Ohio State University-Main Campus,Main Campus
+Ohio University-Main Campus,Ohio University - Main Campus
+Pennsylvania State University-Main Campus,University Park Campus
+Pittsburgh Technical Institute,Main Campus
+Purdue University-Main Campus,Main Campus
+Quinsigamond Community College,Main Campus
+Regis University,Northwest Denver Campus
+Robert Morris University Illinois,ROBERT MORRIS UNIVERSITY ILLINOIS - MAIN CAMPUS
+Rutgers University-New Brunswick,Main Campus
+Saint Cloud State University,Main Campus
+Saint Francis University,Main Campus
+Saint Mary's University of Minnesota,Twin  Cities Campus
+San Diego State University,Main Campus
+Santa Clara University,Main Campus - Santa Clara University
+Santa Fe Community College,SFCC
+School of the Art Institute of Chicago,Main Campus
+Scottsdale Community College,Main Campus
+Shasta College,Main Campus
+Shasta College,Shasta College - Tehama Campus
+Shenandoah University,Main Campus
+SIT Graduate Institute,Main Campus
+South Dakota School of Mines and Technology,Main Campus
+Southern Nazarene University,Main Campus
+Southwestern Illinois College,Belleville Campus
+St Francis College,Main Campus
+St Mary's University,Main Campus
+Stevens Institute of Technology,Main Campus
+SUNY College at Geneseo,SUNY at Geneseo
+SUNY College at Oswego,Main Campus
+SUNY College at Potsdam,Main Campus
+SUNY College of Environmental Science and Forestry,SUNY College of Environmental Science and Forestry
+Texas Southern University,Main Campus
+The Art Institute of Charleston,The Art Institute of Charleston
+The Art Institute of Las Vegas,The Art Institute of Las Vegas
+The Art Institute of Raleigh-Durham,The Art Institute of Raleigh-Durham
+The Art Institute of Tennessee-Nashville,The Art Institute of Tennessee-Nashville
+The Evergreen State College,Main Campus
+The Illinois Institute of Art-Schaumburg,The Illinois Institute of Art - Schaumburg
+The University of Alabama,Main Campus
+The University of Montana,Mountain Campus
+The University of Texas at Arlington,Main Campus
+The University of Texas at Austin,The University of Texas at Austin
