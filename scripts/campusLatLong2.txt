@@ -1,0 +1,191 @@
+American Musical and Dramatic Academy,Main Campus,40.7721673,-73.9875806
+Baker College of Owosso,BAKER COLLEGE OF OWOSSO,42.9851395,-84.1723717
+Baptist Health Schools-Little Rock,Main Campus,34.713096,-92.40695
+Baptist Health System School of Health Professions,Main campus,29.516944,-98.568129
+Baylor University,Main Campus,31.549841,-97.1143146
+Benedictine University,Benedictine University at Mesa,33.4148869,-111.8256624
+Berkshire Community College,Main Campus,42.459521,-73.315469
+Bethel University,Bethel University - Main Campus,45.05786940000001,-93.16052169999999
+Bloomfield College,Main Campus,40.7948947,-74.1955321
+Bowdoin College,Main Campus,43.9067561,-69.9629558
+Bowling Green State University-Firelands,Firelands Campus,41.3985701,-82.59498289999999
+Bunker Hill Community College,Main Campus,42.37470709999999,-71.0696111
+California Institute of Technology,Main Campus,34.1376576,-118.125269
+California Polytechnic State University-San Luis Obispo,Main Campus,35.3050053,-120.6624942
+California State University-Chico,Main Campus,39.7279291,-121.8463457
+California State University-Fresno,Main Campus,36.8120121,-119.7462505
+California State University-Fullerton,Main Campus,33.8829226,-117.8869261
+California University of Pennsylvania,Main Campus,40.06587,-79.887603
+Carnegie Mellon University,Main Campus,40.4434658,-79.9434567
+Case Western Reserve University,Main Campus,41.5043413,-81.6083838
+Central Michigan University,Main Campus,43.5912126,-84.7751928
+Chaminade University of Honolulu,Chaminade University of Honolulu,21.2905834,-157.8073979
+Clarkson University,Main Campus,44.66271280000001,-74.999495
+Coastal Carolina University,Main Campus,33.7949658,-79.01173
+Colorado State University-Fort Collins,Main Campus,40.573436,-105.0865473
+Concordia College at Moorhead,Concordia College,46.86272929999999,-96.7701101
+Cornell University,Statutory and Endowed Campus,42.4534492,-76.4735027
+Cornell University,Cornell Tech,40.740914,-74.00218100000001
+CUNY Kingsborough Community College,Kingsborough Community College,40.5785218,-73.93468969999999
+Cypress College,Culinary Arts Program,33.8278598,-118.0247147
+Daemen College,Main Campus,42.9647379,-78.7890134
+Dartmouth College,Dartmouth College  Main Campus,43.70444059999999,-72.2886934
+DePauw University,Main Campus,39.640397,-86.861622
+Dickinson College,Main Campus,40.2027214,-77.197232
+Drake University,Main Campus,41.60128629999999,-93.6580638
+East Tennessee State University,Main Campus,36.3025374,-82.3701933
+Emory & Henry College,Main Campus,36.7728668,-81.8291477
+Evangel University,Main Campus,37.2198881,-93.2629905
+Ferris State University,Main Campus,43.68484319999999,-85.4856344
+Florida State University,Main Campus,30.4418778,-84.2984889
+Framingham State University,Main Campus,42.2977514,-71.4366781
+Franklin and Marshall College,Franklin and Marshall College Main Campus,40.04748,-76.31791299999999
+George Washington University,Main Campus,38.89971450000001,-77.0485992
+Georgia College and State University,Milledgeville Main Campus,33.0819816,-83.2307799
+Georgia Institute of Technology-Main Campus,Main Campus,33.77561779999999,-84.39628499999999
+Gettysburg College,Main Campus,39.8354367,-77.2316189
+Grand Rapids Community College,Main Campus,42.9660571,-85.66691960000001
+Green River Community College,Main Campus,47.3134935,-122.1780538
+Greenville Technical College,Barton [Main] Campus,34.82640519999999,-82.3711699
+Harvard University,Cambridge Campus,42.3770029,-71.11666009999999
+Hiram College,Main Campus,41.3106764,-81.1439907
+Indiana University-Bloomington,Indiana University - Bloomington Campus,39.17037860000001,-86.51425479999999
+Indiana University-Purdue University-Indianapolis,Main Campus,39.77416199999999,-86.176177
+Iowa Lakes Community College,Main Campus,43.3975326,-94.8177206
+Iowa State University,Iowa State University,42.0266187,-93.6464654
+Jackson State University,Main Campus,32.2960208,-90.2091337
+James Madison University,Main Campus-Harrisonburg,38.435092,-78.8697548
+Jefferson College of Health Sciences,JCHS Main Campus,37.2660926,-79.9395406
+Johns Hopkins University,JHU  HOMEWOOD  CAMPUS- BALTIMORE- MARYLAND,39.3299013,-76.6205177
+Johnson County Community College,Main Campus,38.92318720000001,-94.7303012
+Kennesaw State University,Main Campus,34.038278,-84.58167499999999
+Kent State University at Kent,Main Campus,41.1490629,-81.34146489999999
+Lake Forest College,Main Campus,42.24905799999999,-87.828913
+Lenoir Community College,Lenoir Community college Green County,35.2355983,-77.5720757
+Lewis & Clark College,Main Campus,45.45240829999999,-122.6774355
+Lincoln Technical Institute-East Windsor,Lincoln Technical Institute,41.9234491,-72.5969145
+Louisiana State University Health Sciences Center-Shreveport,Main Campus,32.48046899999999,-93.760714
+Marquette University,Main Campus,43.0381561,-87.9313731
+Massasoit Community College,Main Campus,42.0756099,-70.9902714
+Massasoit Community College,Middleborough Campus,41.89238599999999,-70.91226
+McDaniel College,Main Campus,39.5829886,-77.0036763
+Mercy College,Mercy College - Dobbs Ferry Campus,40.995656,-73.87973509999999
+Miami University-Oxford,Miami University-Oxford (204024),39.5105334,-84.73087679999999
+Michigan State University,Main Campus,42.701848,-84.4821719
+Michigan Technological University,Main Campus,47.1170514,-88.54453149999999
+Midwestern State University,Main Campus,33.8743771,-98.5233501
+Missouri State University-Springfield,Springfield Campus,37.2009158,-93.28094209999999
+Montana State University,Main Campus,47.4884885,-111.3002531
+Montgomery College,Montgomery College:Takoma Park/Silver Spring,38.98648499999999,-77.02520539999999
+Montreat College,Montreat Campus,35.646076,-82.297296
+Morgan State University,Main Campus,39.34351199999999,-76.58458499999999
+Murray State University,Main Campus,36.6155773,-88.3213825
+Nebraska Wesleyan University,Main Campus,40.8385341,-96.6472005
+New York University,NYU Main Campus,40.72951339999999,-73.9964609
+Niagara County Community College,Niagara Falls Culinary Institute,43.0871076,-79.0624469
+North Carolina State University at Raleigh,Main Campus,35.7686746,-78.6779676
+North Dakota State University-Main Campus,Main Campus,46.89217829999999,-96.80139539999999
+Northern Illinois University,Main Campus,41.9341865,-88.7739086
+Northern Virginia Community College,Pitney Bowes Building,38.7636242,-77.1764149
+Northwest Nazarene University,Main Campus,43.5630615,-116.5668828
+Northwestern University,Main Campus,42.0514596,-87.67762909999999
+Ohio Northern University,Main Campus,40.7658541,-83.83236
+Ohio State University-Main Campus,Main Campus,40.0141905,-83.03091429999999
+Ohio University-Main Campus,Ohio University - Main Campus,39.324358,-82.10138889999999
+Pennsylvania State University-Main Campus,University Park Campus,40.7982133,-77.8599084
+Pittsburgh Technical Institute,Main Campus,40.423804,-80.188597
+Purdue University-Main Campus,Main Campus,40.4237054,-86.92119459999999
+Quinsigamond Community College,Main Campus,42.31419810000001,-71.79412669999999
+Regis University,Northwest Denver Campus,39.7891287,-105.0306251
+Robert Morris University Illinois,ROBERT MORRIS UNIVERSITY ILLINOIS - MAIN CAMPUS,41.87630839999999,-87.6271937
+Rutgers University-New Brunswick,Main Campus,40.5008186,-74.44739910000001
+Saint Cloud State University,Main Campus,45.552525,-94.15109299999999
+Saint Francis University,Main Campus,40.5067376,-78.6390758
+Saint Mary's University of Minnesota,Twin  Cities Campus,44.95722029999999,-93.26602319999999
+San Diego State University,Main Campus,32.77572170000001,-117.0718893
+Santa Clara University,Main Campus - Santa Clara University,37.34964180000001,-121.9389875
+Santa Fe Community College,SFCC,35.6054002,-105.9979037
+School of the Art Institute of Chicago,Main Campus,41.88033799999999,-87.624635
+Scottsdale Community College,Main Campus,33.5126183,-111.8824857
+Shasta College,Main Campus,40.6266076,-122.3142672
+Shasta College,Shasta College - Tehama Campus,40.1574026,-122.2181881
+Shenandoah University,Main Campus,39.1660159,-78.1583388
+SIT Graduate Institute,Main Campus,42.88602919999999,-72.56592049999999
+South Dakota School of Mines and Technology,Main Campus,44.072561,-103.2054556
+Southern Nazarene University,Main Campus,35.5122858,-97.62994560000001
+Southwestern Illinois College,Belleville Campus,38.516694,-89.923345
+St Francis College,Main Campus,40.69331739999999,-73.9922772
+St Mary's University,Main Campus,29.4529548,-98.5639582
+Stevens Institute of Technology,Main Campus,40.7468668,-74.0258467
+SUNY College at Geneseo,SUNY at Geneseo,42.79600689999999,-77.82386269999999
+SUNY College at Oswego,Main Campus,43.45278649999999,-76.54392589999999
+SUNY College at Potsdam,Main Campus,44.6643102,-74.9761059
+SUNY College of Environmental Science and Forestry,SUNY College of Environmental Science and Forestry,43.0344612,-76.1369148
+Texas Southern University,Main Campus,29.7217625,-95.3606121
+The Art Institute of Charleston,The Art Institute of Charleston,32.781397,-79.9269747
+The Art Institute of Las Vegas,The Art Institute of Las Vegas,36.0245456,-115.0901283
+The Art Institute of Raleigh-Durham,The Art Institute of Raleigh-Durham,35.9918074,-78.9054343
+The Art Institute of Tennessee-Nashville,The Art Institute of Tennessee-Nashville,36.1544579,-86.6351384
+The Evergreen State College,Main Campus,47.0718574,-122.9766427
+The Illinois Institute of Art-Schaumburg,The Illinois Institute of Art - Schaumburg,42.0482519,-88.0437981
+The University of Alabama,Main Campus,33.2140233,-87.5391418
+The University of Montana,Mountain Campus,46.8600672,-113.9852081
+The University of Texas at Arlington,Main Campus,32.7310991,-97.11551949999999
+The University of Texas at Austin,The University of Texas at Austin,30.2849185,-97.7340567
+The University of Texas Health Science Center at Houston,The University of Texas Health Science Center at Houston - Main Campus,29.7029493,-95.4035139
+The University of Texas MD Anderson Cancer Center,University of Texas MD Anderson Cancer Center - Main Campus,29.7070147,-95.3968476
+Tiffin University,Tiffin Campus,41.1184446,-83.1845635
+Trinity College,Main Campus Trinity College,41.74707799999999,-72.690375
+Truman State University,Main Campus,40.1876254,-92.5819458
+Tulane University of Louisiana,Main Campus,29.9403477,-90.12072789999999
+United Theological Seminary,Main Campus,39.8138492,-84.2769719
+University of Akron Main Campus,Main Campus,41.07591479999999,-81.5111129
+University of Alaska Southeast,Main Campus/Auke Bay,58.38495499999999,-134.640283
+University of Arizona,Main Campus,32.2318851,-110.9501094
+University of California-Berkeley,Main Campus,37.8718992,-122.2585399
+University of California-Davis,Main Campus,38.5382322,-121.7617125
+University of California-Irvine,Main Campus,33.6404952,-117.8442962
+University of California-Riverside,Main Campus,33.9737055,-117.3280644
+University of California-Santa Barbara,Main Campus,34.4139629,-119.848947
+University of Central Florida,Main Campus,28.6024274,-81.2000599
+University of Chicago,Main Campus,41.78860789999999,-87.5987133
+University of Cincinnati-Main Campus,Main Campus,39.1329219,-84.51495039999999
+University of Houston,Central Campus,29.7199489,-95.3422334
+University of Idaho,Main Campus,46.72881239999999,-117.0126084
+University of Illinois at Chicago,UIC College of Medicine at Peoria,40.702,-89.592218
+University of Illinois at Urbana-Champaign,Main Campus,40.10195230000001,-88.2271615
+University of Iowa,Main Campus,41.6626963,-91.5548998
+University of Kansas,Main Campus (Lawrence),38.95434389999999,-95.2557961
+University of Maine,University of Maine,44.90134570000001,-68.6696269
+University of Maryland-University College,Adelphi,38.91264999999999,-76.847599
+University of Massachusetts-Amherst,Main Campus,42.3911569,-72.5267121
+University of Massachusetts-Dartmouth,Main Campus,41.6308868,-71.0066947
+University of Miami,Coral Gables Campus,25.713381,-80.27746429999999
+University of Michigan-Ann Arbor,Ann Arbor campus,42.2780436,-83.7382241
+University of Minnesota-Twin Cities,Main Campus,44.97399,-93.2277285
+University of Mississippi,Main Campus,34.3647324,-89.538443
+University of Missouri-Columbia,Main Campus,38.94038079999999,-92.32773750000001
+University of Missouri-St Louis,University of Missouri-St. Louis,38.7116737,-90.3085589
+University of Mount Union,Main Campus,40.9041553,-81.1127618
+University of Nevada-Reno,Main Campus,39.54366319999999,-119.8154461
+University of New Hampshire-Main Campus,Main Campus,43.138948,-70.9370252
+University of North Alabama,Main Campus,34.80736409999999,-87.68000190000001
+University of North Carolina at Chapel Hill,The University of North Carolina at Chapel Hill,35.9548107,-78.9662056
+University of North Dakota,Main Campus,47.922891,-97.0768014
+University of Oklahoma-Norman Campus,Norman Campus,35.2058936,-97.4457137
+University of Oregon,Main Campus,44.0448302,-123.0726055
+University of Richmond,Main Campus,37.5739607,-77.53961369999999
+University of Saint Mary,University of Saint Mary,39.2774058,-94.9065328
+University of San Francisco,Hilltop Campus (San Francisco),37.7766384,-122.4506253
+University of South Florida-Main Campus,USF Tampa Campus,28.0587031,-82.41385389999999
+University of Utah,Main Campus,40.7649368,-111.8421021
+University of Virginia-Main Campus,Main Campus,38.0335529,-78.5079772
+University of Washington-Seattle Campus,Main Campus,47.65533509999999,-122.3035199
+University of West Georgia,Main Campus,33.5734291,-85.0987351
+University of Wisconsin-Madison,Main Campus,43.07659200000001,-89.4124875
+University of Wisconsin-Milwaukee,Main Campus,43.07826299999999,-87.8819686
+University of Wisconsin-Whitewater,Main Campus,42.8383546,-88.7432242
+Upstate Medical University,SUNY Upstate Medical University,43.0425431,-76.1396943
+Vanderbilt University,Main Campus,36.1447034,-86.8026551
+Washington State University,Main Campus,46.7319374,-117.1544219
+Washington University in St Louis,Danforth Campus,38.6487895,-90.31079620000001
