@@ -42,7 +42,7 @@ for record_r in cursor :
 					"type": "Feature",
 					"geometry": {
 	    				"type": "Point",
-	    				"coordinates": [record_c['long'], record_c['lat']]
+	    				"coordinates": [ float(record_c['long']), float(record_c['lat'])]
 	  				},
 	  				"properties": {
 	    				"school_name": school,

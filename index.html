@@ -70,7 +70,7 @@
               center: US_center
             });
             
-            map.data.loadGeoJson('map.geojson');
+            map.data.loadGeoJson('geo2014.geojson');
 
             map.data.setStyle(function(feature) {
               var magnitude = feature.getProperty('total_offenses');
@@ -85,7 +85,6 @@
                 fillColor: 'red',
                 fillOpacity: .2,
                 scale: magnitude,
-                /*scale: Math.pow(2, magnitude) / 2,*/
                 strokeColor: 'white',
                 strokeWeight: .5
               };
