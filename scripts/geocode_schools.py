@@ -1,5 +1,6 @@
 from geopy.geocoders import Nominatim
 from pymongo import MongoClient
+import pymongo
 
 file = open("notfound.txt", "w")
 
@@ -9,7 +10,7 @@ db = client.campus_crime
 geolocator = Nominatim()
 
 #iterate through campuses
-cursor = db.campuses.find({ "lat": 0, "long": 0}).skip(200)
+cursor = db.campuses.find({ "lat": 0, "long": 0}).sort('total_offenses',pymongo.DESCENDING)
 
 for record in cursor :
 	school = record["school_name"]
