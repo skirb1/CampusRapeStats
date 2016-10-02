@@ -1,3 +1,7 @@
 mongoexport --db test --collection traffic --out traffic.json
 
+
 //try --out geoYEAR.geojson
+
+import
+mongoimport --db campus_crime --collection campuses <campuses.json 
