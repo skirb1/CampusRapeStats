@@ -54,36 +54,21 @@
       </div>
     </nav>
 
-    <div class="jumbotron-topic">
-        <div class="container">
-        <br/>
-        </div><!-- /.container -->
-        
-        <div class="container">
-      <ul class="nav nav-tabs" role="navigation">
-                <li class="active"><a href="index.html">2014 Map</a></li>
-                <li><a href="2013_map.html">2013 Map</a></li>
-                <li><a href="2012_map.html">2012 Map</a></li>
-                <li><a href="2011_map.html">2011 Map</a></li>
-        </ul>
-      </div>
-    </div><!-- jumbotron -->
-
     <div class="container">
-
       <div class="starter-template">
-       
+
+      	<p class="lead">Campus sexual violence incidents in the U.S.</p>
+
         <!-- Google Map code -->
         <div id="map"></div>
         <script src="getcircle.js"></script>
         <script>
+        var US_center = {lat: 39.8282, lng: -98.5795};
           function initMap() {
-            var US_center = {lat: 39.8282, lng: -98.5795};
-            var map = new google.maps.Map(document.getElementById('map'), {
+            map = new google.maps.Map(document.getElementById('map'), {
               zoom: 4,
               center: US_center
             });
-            
             map.data.loadGeoJson('map2014.geojson');
 
             map.data.setStyle(function(feature) {
@@ -92,13 +77,26 @@
                 icon: getCircle(magnitude)
               };
             });
+
           }
+
         </script>
+		<br>
+        <script src="loadMapData.js"></script>
+      	<button onclick="loadMapData('2014', map)">2014</button>
+      	<button onclick="loadMapData('2013', map)">2013</button>
+      	<button onclick="loadMapData('2012', map)">2012</button>
+      	<button onclick="loadMapData('2011', map)">2011</button>
+      	<br><br>
+      	<button>Total Assaults</button>
+      	<button>Total per Capita</button>
+
+
         <script async defer
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdPeJ5xqsqtEboFnQktSEvtAcQ52W-xNM&callback=initMap">
         </script>
         <br/>
-        <p class="lead">Campus sexual violence incidents in the U.S. in 2014</p>
+        
 
       </div>
 
