@@ -1,13 +1,10 @@
 from pymongo import MongoClient
+python sys
 
 client = MongoClient()
 db = client.campus_crime
 
-#clear rape_stats doc
-result = db.rape_stats.delete_many({})
-print(result.deleted_count)
-
-result = db.campuses.delete_many({})
-print(result.deleted_count)
+name = "rape_stats" + sys.argv[1]
+rape_stats = db[name]
 
 db.rape_stats.drop()

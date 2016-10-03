@@ -76,6 +76,7 @@
        
         <!-- Google Map code -->
         <div id="map"></div>
+        <script src="getcircle.js"></script>
         <script>
           function initMap() {
             var US_center = {lat: 39.8282, lng: -98.5795};
@@ -92,18 +93,6 @@
                 icon: getCircle(magnitude)
               };
             });
-
-            function getCircle(magnitude) {
-              var circle = {
-                path: google.maps.SymbolPath.CIRCLE,
-                fillColor: 'red',
-                fillOpacity: .2,
-                scale: magnitude,
-                strokeColor: 'white',
-                strokeWeight: .5
-              };
-              return circle;
-            }
 
           }
         </script>

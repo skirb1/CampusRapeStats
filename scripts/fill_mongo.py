@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 from openpyxl import load_workbook
+import sys
 
 files = ['../Excels/Criminal_Offenses_Local_State_Police.xlsx',
 			'../Excels/Criminal_Offenses_Noncampus.xlsx',
@@ -8,8 +9,10 @@ files = ['../Excels/Criminal_Offenses_Local_State_Police.xlsx',
 
 client = MongoClient()
 db = client.campus_crime
-rape_stats = db['rape_stats2011']
-year = 2012;
+
+year = sys.argv[1];
+collection_name = "totals" + year;
+rape_stats = db[collection_name]
 
 for file in files:
 	wb = load_workbook(file)
@@ -25,7 +28,7 @@ for file in files:
 		
 		if row[0].value == year and total > 0 :
 			#print(row[2].value)
-			campus_id = None
+			#campus_id = None
 
 			#for 2014 only
 			#rapes = int(row[7].value) + int(row[9].value)
@@ -51,12 +54,10 @@ for file in files:
 			#add/update rape_statsX document
 			cursor = db.rape_stats.find({"school_name" : row[2].value, "campus_name" : row[4].value})
 			if cursor.count() == 1 :
-				#get previous numbers
-				campus_id = cursor[0]['campus_id']
 
 				#add to running total
 				result = db.rape_stats.update(
-						{ "campus_id" : campus_id },
+						{"school_name" : row[2].value, "campus_name" : row[4].value},
 						{ "$inc" : { "total_offenses" : total} }
 					)
 
@@ -64,7 +65,6 @@ for file in files:
 			elif cursor.count() == 0 :
 				result = db.rape_stats.insert_one(
 					{
-						"campus_id" : campus_id,
 						"school_id" : row[1].value,
 						"school_name" : row[2].value,
 						"campus_name" : row[4].value,

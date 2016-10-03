@@ -1,11 +1,17 @@
 from pymongo import MongoClient
+import sys
 
 client = MongoClient()
 db = client.campus_crime
 campuses = db['campuses']
 
-rape_stats = db['rape_stats2011']
-geo_data = db['geo_data2011']
+year = sys.argv[1]
+
+totals_collection = "totals" + year
+geo_collection = "geo_data" + year
+
+rape_stats = db[totals_collection]
+geo_data = db[geo_collection]
 
 if geo_data.find({}).count() == 0 :
 	geo_data.insert_one(
@@ -18,7 +24,10 @@ if geo_data.find({}).count() == 0 :
 cursor = db.rape_stats.find({})
 
 for record_r in cursor :
-	cursor_c = campuses.find({ "_id": record_r['campus_id'] })
+	school = record_r['school_name']
+	campus = record_r['campus_name']
+
+	cursor_c = campuses.find({ "school_name": school, "campus_name": campus })
 	if cursor_c.count() == 0 :
 		continue
 
@@ -35,9 +44,7 @@ for record_r in cursor :
 	if (latitude < 10.0 or latitude > 72.0 or longitude < -175.0 or longitude > -55.0) :
 		continue
 
-	school = record_c['school_name']
-	campus = record_c['campus_name']
-
+	
 	#feature already exists
 	if geo_data.find({"properties": {"school_name": school, "campus_name": campus} }).count() > 0 :
 		continue
