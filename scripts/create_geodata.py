@@ -41,7 +41,7 @@ for record_r in cursor :
 		continue
 
 	#leave out lat/long outside U.S. bounds (invalid data)
-	if (latitude < 17.0 or latitude > 72.0 or longitude < -175.0 or longitude > -55.0) :
+	if (latitude < 19.0 or latitude > 72.0 or longitude < -175.0 or longitude > -55.0) :
 		continue
 
 	
