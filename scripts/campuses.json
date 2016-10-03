@@ -1,7 +1,7 @@
 {"_id":{"$oid":"57f0bd7a57cd6e1c9ccfaf6f"},"school_id":123961,"school_name":"University of Southern California","lat":-118.2851,"long":"34.0224","campus_name":"University Park Campus"}
 {"_id":{"$oid":"57f0bd7a57cd6e1c9ccfaf71"},"school_id":123961,"school_name":"University of Southern California","lat":34.0616001,"long":-118.20285278857,"campus_name":"Health Sciences Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf73"},"school_id":100724,"school_name":"Alabama State University","lat":"-86.2936","long":"32.3646","campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf75"},"school_id":188854,"school_name":"American Musical and Dramatic Academy","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf75"},"school_id":188854,"school_name":"American Musical and Dramatic Academy","lat":"40.7721673","long":"-73.9875806","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf77"},"school_id":161767,"school_name":"Anne Arundel Community College","lat":39.04934705,"long":-76.5128835389789,"campus_name":"Anne Arundel Community College"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf79"},"school_id":197869,"school_name":"Appalachian State University","lat":"-81.6774","long":"36.2108","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf7b"},"school_id":219578,"school_name":"Aquinas College","lat":-32.0272273,"long":115.862513820567,"campus_name":"Aquinas College"}
@@ -9,258 +9,258 @@
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf7f"},"school_id":104151,"school_name":"Arizona State University-Tempe","lat":"-111.9281","long":"33.4242","campus_name":"Tempe Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf81"},"school_id":104151,"school_name":"Arizona State University-Tempe","lat":"-112.0735","long":"33.4529","campus_name":"Downtown Phoenix Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf83"},"school_id":446048,"school_name":"Ave Maria University","lat":26.3363889,"long":-81.4427777,"campus_name":"Ave Maria University"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf85"},"school_id":168838,"school_name":"Baker College of Owosso","lat":0,"long":0,"campus_name":"BAKER COLLEGE OF OWOSSO"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf87"},"school_id":106546,"school_name":"Baptist Health Schools-Little Rock","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf89"},"school_id":223083,"school_name":"Baptist Health System School of Health Professions","lat":0,"long":0,"campus_name":"Main campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf8b"},"school_id":223232,"school_name":"Baylor University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf85"},"school_id":168838,"school_name":"Baker College of Owosso","lat":"42.9851395","long":"-84.1723717","campus_name":"BAKER COLLEGE OF OWOSSO"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf87"},"school_id":106546,"school_name":"Baptist Health Schools-Little Rock","lat":"34.713096","long":"-92.40695","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf89"},"school_id":223083,"school_name":"Baptist Health System School of Health Professions","lat":"29.516944","long":"-98.568129","campus_name":"Main campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf8b"},"school_id":223232,"school_name":"Baylor University","lat":"31.549841","long":"-97.1143146","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf8d"},"school_id":217721,"school_name":"Benedict College","lat":34.0132106,"long":-81.0200914,"campus_name":"Benedict College"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf8f"},"school_id":145619,"school_name":"Benedictine University","lat":0,"long":0,"campus_name":"Benedictine University at Mesa"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf91"},"school_id":164775,"school_name":"Berkshire Community College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf8f"},"school_id":145619,"school_name":"Benedictine University","lat":"33.4148869","long":"-111.8256624","campus_name":"Benedictine University at Mesa"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf91"},"school_id":164775,"school_name":"Berkshire Community College","lat":"42.459521","long":"-73.315469","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf93"},"school_id":237181,"school_name":"Bethany College","lat":-34.7610332,"long":138.605932767507,"campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf95"},"school_id":150145,"school_name":"Bethel College-Indiana","lat":"86.1962","long":"41.6783","campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf97"},"school_id":173160,"school_name":"Bethel University","lat":0,"long":0,"campus_name":"Bethel University - Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf99"},"school_id":183822,"school_name":"Bloomfield College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf9b"},"school_id":161004,"school_name":"Bowdoin College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf9d"},"school_id":201432,"school_name":"Bowling Green State University-Firelands","lat":0,"long":0,"campus_name":"Firelands Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf9f"},"school_id":165112,"school_name":"Bunker Hill Community College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf97"},"school_id":173160,"school_name":"Bethel University","lat":"45.05786940000001","long":"-93.16052169999999","campus_name":"Bethel University - Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf99"},"school_id":183822,"school_name":"Bloomfield College","lat":"40.7948947","long":"-74.1955321","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf9b"},"school_id":161004,"school_name":"Bowdoin College","lat":"43.9067561","long":"-69.9629558","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf9d"},"school_id":201432,"school_name":"Bowling Green State University-Firelands","lat":"41.3985701","long":"-82.59498289999999","campus_name":"Firelands Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfaf9f"},"school_id":165112,"school_name":"Bunker Hill Community College","lat":"42.37470709999999","long":"-71.0696111","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa1"},"school_id":154800,"school_name":"Butler Community College","lat":37.8064064,"long":-96.8828324,"campus_name":"Butler Community College"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa3"},"school_id":150163,"school_name":"Butler University","lat":39.8407191,"long":-86.1737493346481,"campus_name":"Butler University"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa5"},"school_id":110404,"school_name":"California Institute of Technology","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa7"},"school_id":110422,"school_name":"California Polytechnic State University-San Luis Obispo","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa9"},"school_id":110538,"school_name":"California State University-Chico","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafab"},"school_id":110556,"school_name":"California State University-Fresno","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafad"},"school_id":110565,"school_name":"California State University-Fullerton","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa5"},"school_id":110404,"school_name":"California Institute of Technology","lat":"34.1376576","long":"-118.125269","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa7"},"school_id":110422,"school_name":"California Polytechnic State University-San Luis Obispo","lat":"35.3050053","long":"-120.6624942","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafa9"},"school_id":110538,"school_name":"California State University-Chico","lat":"39.7279291","long":"-121.8463457","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafab"},"school_id":110556,"school_name":"California State University-Fresno","lat":"36.8120121","long":"-119.7462505","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8057cd6e1c9ccfafad"},"school_id":110565,"school_name":"California State University-Fullerton","lat":"33.8829226","long":"-117.8869261","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8057cd6e1c9ccfafaf"},"school_id":110617,"school_name":"California State University-Sacramento","lat":38.5626837,"long":-121.4241199,"campus_name":"Sacramento State"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb1"},"school_id":211361,"school_name":"California University of Pennsylvania","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb3"},"school_id":211440,"school_name":"Carnegie Mellon University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb5"},"school_id":201645,"school_name":"Case Western Reserve University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb7"},"school_id":169248,"school_name":"Central Michigan University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb9"},"school_id":141486,"school_name":"Chaminade University of Honolulu","lat":0,"long":0,"campus_name":"Chaminade University of Honolulu"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb1"},"school_id":211361,"school_name":"California University of Pennsylvania","lat":"40.06587","long":"-79.887603","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb3"},"school_id":211440,"school_name":"Carnegie Mellon University","lat":"40.4434658","long":"-79.9434567","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb5"},"school_id":201645,"school_name":"Case Western Reserve University","lat":"41.5043413","long":"-81.6083838","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb7"},"school_id":169248,"school_name":"Central Michigan University","lat":"43.5912126","long":"-84.7751928","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafb9"},"school_id":141486,"school_name":"Chaminade University of Honolulu","lat":"21.2905834","long":"-157.8073979","campus_name":"Chaminade University of Honolulu"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfafbb"},"school_id":208406,"school_name":"Clackamas Community College","lat":45.3074228,"long":-122.760672559075,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafbd"},"school_id":190044,"school_name":"Clarkson University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafbd"},"school_id":190044,"school_name":"Clarkson University","lat":"44.66271280000001","long":"-74.999495","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfafbf"},"school_id":217882,"school_name":"Clemson University","lat":"-82.8392","long":"34.6805","campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc1"},"school_id":218724,"school_name":"Coastal Carolina University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc3"},"school_id":126818,"school_name":"Colorado State University-Fort Collins","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc5"},"school_id":173300,"school_name":"Concordia College at Moorhead","lat":0,"long":0,"campus_name":"Concordia College"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc7"},"school_id":190415,"school_name":"Cornell University","lat":0,"long":0,"campus_name":"Statutory and Endowed Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc9"},"school_id":190415,"school_name":"Cornell University","lat":0,"long":0,"campus_name":"Cornell Tech"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafcb"},"school_id":190619,"school_name":"CUNY Kingsborough Community College","lat":0,"long":0,"campus_name":"Kingsborough Community College"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafcd"},"school_id":113236,"school_name":"Cypress College","lat":0,"long":0,"campus_name":"Culinary Arts Program"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafcf"},"school_id":190725,"school_name":"Daemen College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd1"},"school_id":182670,"school_name":"Dartmouth College","lat":0,"long":0,"campus_name":"Dartmouth College  Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd3"},"school_id":150400,"school_name":"DePauw University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd5"},"school_id":212009,"school_name":"Dickinson College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd7"},"school_id":153269,"school_name":"Drake University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc1"},"school_id":218724,"school_name":"Coastal Carolina University","lat":"33.7949658","long":"-79.01173","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc3"},"school_id":126818,"school_name":"Colorado State University-Fort Collins","lat":"40.573436","long":"-105.0865473","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc5"},"school_id":173300,"school_name":"Concordia College at Moorhead","lat":"46.86272929999999","long":"-96.7701101","campus_name":"Concordia College"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc7"},"school_id":190415,"school_name":"Cornell University","lat":"42.4534492","long":"-76.4735027","campus_name":"Statutory and Endowed Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafc9"},"school_id":190415,"school_name":"Cornell University","lat":"40.740914","long":"-74.00218100000001","campus_name":"Cornell Tech"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafcb"},"school_id":190619,"school_name":"CUNY Kingsborough Community College","lat":"40.5785218","long":"-73.93468969999999","campus_name":"Kingsborough Community College"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafcd"},"school_id":113236,"school_name":"Cypress College","lat":"33.8278598","long":"-118.0247147","campus_name":"Culinary Arts Program"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafcf"},"school_id":190725,"school_name":"Daemen College","lat":"42.9647379","long":"-78.7890134","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd1"},"school_id":182670,"school_name":"Dartmouth College","lat":"43.70444059999999","long":"-72.2886934","campus_name":"Dartmouth College  Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd3"},"school_id":150400,"school_name":"DePauw University","lat":"39.640397","long":"-86.861622","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd5"},"school_id":212009,"school_name":"Dickinson College","lat":"40.2027214","long":"-77.197232","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd7"},"school_id":153269,"school_name":"Drake University","lat":"41.60128629999999","long":"-93.6580638","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfafd9"},"school_id":177250,"school_name":"East Central College","lat":37.947003,"long":-91.7485242,"campus_name":"East Central College Rolla"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafdb"},"school_id":220075,"school_name":"East Tennessee State University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafdb"},"school_id":220075,"school_name":"East Tennessee State University","lat":"36.3025374","long":"-82.3701933","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfafdd"},"school_id":169798,"school_name":"Eastern Michigan University","lat":42.2505788,"long":-83.6242913284779,"campus_name":"Eastern Michigan University"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafdf"},"school_id":232025,"school_name":"Emory \u0026 Henry College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe1"},"school_id":177339,"school_name":"Evangel University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafdf"},"school_id":232025,"school_name":"Emory \u0026 Henry College","lat":"36.7728668","long":"-81.8291477","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe1"},"school_id":177339,"school_name":"Evangel University","lat":"37.2198881","long":"-93.2629905","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe3"},"school_id":129242,"school_name":"Fairfield University","lat":13.13502845,"long":-59.6302133421247,"campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe5"},"school_id":191126,"school_name":"Fashion Institute of Technology","lat":40.7472611,"long":-73.9945506,"campus_name":"FASHION INSTITUTE OF TECHNOLOGY"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe7"},"school_id":169910,"school_name":"Ferris State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe9"},"school_id":134097,"school_name":"Florida State University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe7"},"school_id":169910,"school_name":"Ferris State University","lat":"43.68484319999999","long":"-85.4856344","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafe9"},"school_id":134097,"school_name":"Florida State University","lat":"30.4418778","long":"-84.2984889","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfafeb"},"school_id":155061,"school_name":"Fort Hays State University","lat":38.8736227,"long":-99.3406595,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafed"},"school_id":165866,"school_name":"Framingham State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafef"},"school_id":212577,"school_name":"Franklin and Marshall College","lat":0,"long":0,"campus_name":"Franklin and Marshall College Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff1"},"school_id":131469,"school_name":"George Washington University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff3"},"school_id":139861,"school_name":"Georgia College and State University","lat":0,"long":0,"campus_name":"Milledgeville Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff5"},"school_id":139755,"school_name":"Georgia Institute of Technology-Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafed"},"school_id":165866,"school_name":"Framingham State University","lat":"42.2977514","long":"-71.4366781","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafef"},"school_id":212577,"school_name":"Franklin and Marshall College","lat":"40.04748","long":"-76.31791299999999","campus_name":"Franklin and Marshall College Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff1"},"school_id":131469,"school_name":"George Washington University","lat":"38.89971450000001","long":"-77.0485992","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff3"},"school_id":139861,"school_name":"Georgia College and State University","lat":"33.0819816","long":"-83.2307799","campus_name":"Milledgeville Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff5"},"school_id":139755,"school_name":"Georgia Institute of Technology-Main Campus","lat":"33.77561779999999","long":"-84.39628499999999","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff7"},"school_id":139940,"school_name":"Georgia State University","lat":"-84.3853","long":"33.7531","campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff9"},"school_id":212674,"school_name":"Gettysburg College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaffb"},"school_id":170055,"school_name":"Grand Rapids Community College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaffd"},"school_id":235343,"school_name":"Green River Community College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafff"},"school_id":218113,"school_name":"Greenville Technical College","lat":0,"long":0,"campus_name":"Barton [Main] Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaff9"},"school_id":212674,"school_name":"Gettysburg College","lat":"39.8354367","long":"-77.2316189","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaffb"},"school_id":170055,"school_name":"Grand Rapids Community College","lat":"42.9660571","long":"-85.66691960000001","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfaffd"},"school_id":235343,"school_name":"Green River Community College","lat":"47.3134935","long":"-122.1780538","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfafff"},"school_id":218113,"school_name":"Greenville Technical College","lat":"34.82640519999999","long":"-82.3711699","campus_name":"Barton [Main] Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb001"},"school_id":232265,"school_name":"Hampton University","lat":51.4030739,"long":-0.30323531224148,"campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb003"},"school_id":212869,"school_name":"Harcum College","lat":40.0222,"long":-75.3139705,"campus_name":"Harcum College"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb005"},"school_id":166027,"school_name":"Harvard University","lat":0,"long":0,"campus_name":"Cambridge Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb007"},"school_id":203128,"school_name":"Hiram College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb005"},"school_id":166027,"school_name":"Harvard University","lat":"42.3770029","long":"-71.11666009999999","campus_name":"Cambridge Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb007"},"school_id":203128,"school_name":"Hiram College","lat":"41.3106764","long":"-81.1439907","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb009"},"school_id":162760,"school_name":"Hood College","lat":39.4229618,"long":-77.4189169726406,"campus_name":"Hood College"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb00b"},"school_id":151351,"school_name":"Indiana University-Bloomington","lat":0,"long":0,"campus_name":"Indiana University - Bloomington Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb00d"},"school_id":151111,"school_name":"Indiana University-Purdue University-Indianapolis","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb00f"},"school_id":153533,"school_name":"Iowa Lakes Community College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb011"},"school_id":153603,"school_name":"Iowa State University","lat":0,"long":0,"campus_name":"Iowa State University"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb013"},"school_id":175856,"school_name":"Jackson State University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb00b"},"school_id":151351,"school_name":"Indiana University-Bloomington","lat":"39.17037860000001","long":"-86.51425479999999","campus_name":"Indiana University - Bloomington Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb00d"},"school_id":151111,"school_name":"Indiana University-Purdue University-Indianapolis","lat":"39.77416199999999","long":"-86.176177","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb00f"},"school_id":153533,"school_name":"Iowa Lakes Community College","lat":"43.3975326","long":"-94.8177206","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb011"},"school_id":153603,"school_name":"Iowa State University","lat":"42.0266187","long":"-93.6464654","campus_name":"Iowa State University"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb013"},"school_id":175856,"school_name":"Jackson State University","lat":"32.2960208","long":"-90.2091337","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb015"},"school_id":134945,"school_name":"Jacksonville University","lat":30.3546255,"long":-81.6073892181122,"campus_name":"JACKSONVILLE UNIVERSITY"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb017"},"school_id":232423,"school_name":"James Madison University","lat":0,"long":0,"campus_name":"Main Campus-Harrisonburg"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb017"},"school_id":232423,"school_name":"James Madison University","lat":"38.435092","long":"-78.8697548","campus_name":"Main Campus-Harrisonburg"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb019"},"school_id":191986,"school_name":"Jamestown Community College","lat":42.1155556,"long":-79.2199999,"campus_name":"Jamestown Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb01b"},"school_id":231837,"school_name":"Jefferson College of Health Sciences","lat":0,"long":0,"campus_name":"JCHS Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb01d"},"school_id":162928,"school_name":"Johns Hopkins University","lat":0,"long":0,"campus_name":"JHU  HOMEWOOD  CAMPUS- BALTIMORE- MARYLAND"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb01f"},"school_id":155210,"school_name":"Johnson County Community College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb01b"},"school_id":231837,"school_name":"Jefferson College of Health Sciences","lat":"37.2660926","long":"-79.9395406","campus_name":"JCHS Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb01d"},"school_id":162928,"school_name":"Johns Hopkins University","lat":"39.3299013","long":"-76.6205177","campus_name":"JHU  HOMEWOOD  CAMPUS- BALTIMORE- MARYLAND"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb01f"},"school_id":155210,"school_name":"Johnson County Community College","lat":"38.92318720000001","long":"-94.7303012","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb021"},"school_id":155399,"school_name":"Kansas State University","lat":38.92929125,"long":-94.843008910629,"campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb023"},"school_id":146393,"school_name":"Kendall College","lat":25.6772836,"long":-80.3787781404983,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb025"},"school_id":140164,"school_name":"Kennesaw State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb027"},"school_id":203517,"school_name":"Kent State University at Kent","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb029"},"school_id":146481,"school_name":"Lake Forest College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb02b"},"school_id":198817,"school_name":"Lenoir Community College","lat":0,"long":0,"campus_name":"Lenoir Community college Green County"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb02d"},"school_id":209056,"school_name":"Lewis \u0026 Clark College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb025"},"school_id":140164,"school_name":"Kennesaw State University","lat":"34.038278","long":"-84.58167499999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb027"},"school_id":203517,"school_name":"Kent State University at Kent","lat":"41.1490629","long":"-81.34146489999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb029"},"school_id":146481,"school_name":"Lake Forest College","lat":"42.24905799999999","long":"-87.828913","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb02b"},"school_id":198817,"school_name":"Lenoir Community College","lat":"35.2355983","long":"-77.5720757","campus_name":"Lenoir Community college Green County"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb02d"},"school_id":209056,"school_name":"Lewis \u0026 Clark College","lat":"45.45240829999999","long":"-122.6774355","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb02f"},"school_id":192271,"school_name":"LIM College","lat":50.8589756,"long":6.0181491,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb031"},"school_id":129181,"school_name":"Lincoln Technical Institute-East Windsor","lat":0,"long":0,"campus_name":"Lincoln Technical Institute"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb031"},"school_id":129181,"school_name":"Lincoln Technical Institute-East Windsor","lat":"41.9234491","long":"-72.5969145","campus_name":"Lincoln Technical Institute"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb033"},"school_id":177968,"school_name":"Lindenwood University","lat":38.7875048,"long":-90.5031034519258,"campus_name":"Lindenwood University"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb035"},"school_id":232566,"school_name":"Longwood University","lat":39.8169077,"long":-75.5470531,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb037"},"school_id":435000,"school_name":"Louisiana State University Health Sciences Center-Shreveport","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb039"},"school_id":239105,"school_name":"Marquette University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb037"},"school_id":435000,"school_name":"Louisiana State University Health Sciences Center-Shreveport","lat":"32.48046899999999","long":"-93.760714","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb039"},"school_id":239105,"school_name":"Marquette University","lat":"43.0381561","long":"-87.9313731","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb03b"},"school_id":237525,"school_name":"Marshall University","lat":38.4232042,"long":-82.4308402,"campus_name":"Marshall University"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb03d"},"school_id":166683,"school_name":"Massachusetts Institute of Technology","lat":42.3583961,"long":-71.0956777766393,"campus_name":"MIT"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb03f"},"school_id":166823,"school_name":"Massasoit Community College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb03f"},"school_id":166823,"school_name":"Massasoit Community College","lat":"42.0756099","long":"-70.9902714","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb041"},"school_id":166823,"school_name":"Massasoit Community College","lat":42.18384835,"long":-71.1008911621838,"campus_name":"MASSASOIT COMMUNITY COLLEGE CANTON"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb043"},"school_id":166823,"school_name":"Massasoit Community College","lat":0,"long":0,"campus_name":"Middleborough Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb045"},"school_id":164270,"school_name":"McDaniel College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb043"},"school_id":166823,"school_name":"Massasoit Community College","lat":"41.89238599999999","long":"-70.91226","campus_name":"Middleborough Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb045"},"school_id":164270,"school_name":"McDaniel College","lat":"39.5829886","long":"-77.0036763","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb047"},"school_id":220792,"school_name":"Meharry Medical College","lat":36.1664456,"long":-86.8144436,"campus_name":"Meharry Medical College"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb049"},"school_id":193016,"school_name":"Mercy College","lat":0,"long":0,"campus_name":"Mercy College - Dobbs Ferry Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb049"},"school_id":193016,"school_name":"Mercy College","lat":"40.995656","long":"-73.87973509999999","campus_name":"Mercy College - Dobbs Ferry Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb04b"},"school_id":174020,"school_name":"Metropolitan State University","lat":44.9574968,"long":-93.0738391755929,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb04d"},"school_id":204024,"school_name":"Miami University-Oxford","lat":0,"long":0,"campus_name":"Miami University-Oxford (204024)"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb04f"},"school_id":171100,"school_name":"Michigan State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb051"},"school_id":171128,"school_name":"Michigan Technological University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb053"},"school_id":226833,"school_name":"Midwestern State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb055"},"school_id":179566,"school_name":"Missouri State University-Springfield","lat":0,"long":0,"campus_name":"Springfield Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb04d"},"school_id":204024,"school_name":"Miami University-Oxford","lat":"39.5105334","long":"-84.73087679999999","campus_name":"Miami University-Oxford (204024)"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb04f"},"school_id":171100,"school_name":"Michigan State University","lat":"42.701848","long":"-84.4821719","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb051"},"school_id":171128,"school_name":"Michigan Technological University","lat":"47.1170514","long":"-88.54453149999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb053"},"school_id":226833,"school_name":"Midwestern State University","lat":"33.8743771","long":"-98.5233501","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb055"},"school_id":179566,"school_name":"Missouri State University-Springfield","lat":"37.2009158","long":"-93.28094209999999","campus_name":"Springfield Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb057"},"school_id":178411,"school_name":"Missouri University of Science and Technology","lat":37.95159385,"long":-91.7751663408198,"campus_name":"Missouri S\u0026T"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb059"},"school_id":180461,"school_name":"Montana State University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb059"},"school_id":180461,"school_name":"Montana State University","lat":"47.4884885","long":"-111.3002531","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb05b"},"school_id":180179,"school_name":"Montana State University-Billings","lat":45.7970505,"long":-108.520935798179,"campus_name":"Montana State University-Billings"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb05d"},"school_id":163426,"school_name":"Montgomery College","lat":0,"long":0,"campus_name":"Montgomery College:Takoma Park/Silver Spring"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb05f"},"school_id":199032,"school_name":"Montreat College","lat":0,"long":0,"campus_name":"Montreat Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb061"},"school_id":163453,"school_name":"Morgan State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb063"},"school_id":157401,"school_name":"Murray State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb065"},"school_id":181446,"school_name":"Nebraska Wesleyan University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb067"},"school_id":193900,"school_name":"New York University","lat":0,"long":0,"campus_name":"NYU Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb069"},"school_id":193946,"school_name":"Niagara County Community College","lat":0,"long":0,"campus_name":"Niagara Falls Culinary Institute"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb06b"},"school_id":199193,"school_name":"North Carolina State University at Raleigh","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb06d"},"school_id":200332,"school_name":"North Dakota State University-Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb06f"},"school_id":147703,"school_name":"Northern Illinois University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb05d"},"school_id":163426,"school_name":"Montgomery College","lat":"38.98648499999999","long":"-77.02520539999999","campus_name":"Montgomery College:Takoma Park/Silver Spring"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb05f"},"school_id":199032,"school_name":"Montreat College","lat":"35.646076","long":"-82.297296","campus_name":"Montreat Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb061"},"school_id":163453,"school_name":"Morgan State University","lat":"39.34351199999999","long":"-76.58458499999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb063"},"school_id":157401,"school_name":"Murray State University","lat":"36.6155773","long":"-88.3213825","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb065"},"school_id":181446,"school_name":"Nebraska Wesleyan University","lat":"40.8385341","long":"-96.6472005","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb067"},"school_id":193900,"school_name":"New York University","lat":"40.72951339999999","long":"-73.9964609","campus_name":"NYU Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb069"},"school_id":193946,"school_name":"Niagara County Community College","lat":"43.0871076","long":"-79.0624469","campus_name":"Niagara Falls Culinary Institute"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb06b"},"school_id":199193,"school_name":"North Carolina State University at Raleigh","lat":"35.7686746","long":"-78.6779676","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb06d"},"school_id":200332,"school_name":"North Dakota State University-Main Campus","lat":"46.89217829999999","long":"-96.80139539999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb06f"},"school_id":147703,"school_name":"Northern Illinois University","lat":"41.9341865","long":"-88.7739086","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb071"},"school_id":232946,"school_name":"Northern Virginia Community College","lat":38.8339054,"long":-77.2363500664837,"campus_name":"Annandale Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb073"},"school_id":232946,"school_name":"Northern Virginia Community College","lat":38.8397685,"long":-77.1151796,"campus_name":"Alexandria Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb075"},"school_id":232946,"school_name":"Northern Virginia Community College","lat":39.03090515,"long":-77.3917104909525,"campus_name":"Loudoun Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb077"},"school_id":232946,"school_name":"Northern Virginia Community College","lat":38.80801965,"long":-77.518088885921,"campus_name":"Manassas Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb079"},"school_id":232946,"school_name":"Northern Virginia Community College","lat":0,"long":0,"campus_name":"Pitney Bowes Building"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb07b"},"school_id":142461,"school_name":"Northwest Nazarene University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb07d"},"school_id":147767,"school_name":"Northwestern University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb07f"},"school_id":204635,"school_name":"Ohio Northern University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb081"},"school_id":204796,"school_name":"Ohio State University-Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb083"},"school_id":204857,"school_name":"Ohio University-Main Campus","lat":0,"long":0,"campus_name":"Ohio University - Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb079"},"school_id":232946,"school_name":"Northern Virginia Community College","lat":"38.7636242","long":"-77.1764149","campus_name":"Pitney Bowes Building"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb07b"},"school_id":142461,"school_name":"Northwest Nazarene University","lat":"43.5630615","long":"-116.5668828","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb07d"},"school_id":147767,"school_name":"Northwestern University","lat":"42.0514596","long":"-87.67762909999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb07f"},"school_id":204635,"school_name":"Ohio Northern University","lat":"40.7658541","long":"-83.83236","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb081"},"school_id":204796,"school_name":"Ohio State University-Main Campus","lat":"40.0141905","long":"-83.03091429999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb083"},"school_id":204857,"school_name":"Ohio University-Main Campus","lat":"39.324358","long":"-82.10138889999999","campus_name":"Ohio University - Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb085"},"school_id":209490,"school_name":"Oregon Health \u0026 Science University","lat":45.499038,"long":-122.685695204464,"campus_name":"Oregon Health \u0026 Science University"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb087"},"school_id":209542,"school_name":"Oregon State University","lat":44.564438,"long":-123.274906,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb089"},"school_id":214777,"school_name":"Pennsylvania State University-Main Campus","lat":0,"long":0,"campus_name":"University Park Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb08b"},"school_id":215415,"school_name":"Pittsburgh Technical Institute","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb089"},"school_id":214777,"school_name":"Pennsylvania State University-Main Campus","lat":"40.7982133","long":"-77.8599084","campus_name":"University Park Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb08b"},"school_id":215415,"school_name":"Pittsburgh Technical Institute","lat":"40.423804","long":"-80.188597","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb08d"},"school_id":186131,"school_name":"Princeton University","lat":14.4331601,"long":120.973251907479,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb08f"},"school_id":243780,"school_name":"Purdue University-Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb091"},"school_id":167534,"school_name":"Quinsigamond Community College","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb08f"},"school_id":243780,"school_name":"Purdue University-Main Campus","lat":"40.4237054","long":"-86.92119459999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb091"},"school_id":167534,"school_name":"Quinsigamond Community College","lat":"42.31419810000001","long":"-71.79412669999999","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb093"},"school_id":233277,"school_name":"Radford University","lat":52.9512923,"long":-1.18505052476926,"campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb095"},"school_id":186645,"school_name":"Raritan Valley Community College","lat":40.6100961,"long":-74.6882224,"campus_name":"Raritan Valley Community College"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb097"},"school_id":127918,"school_name":"Regis University","lat":0,"long":0,"campus_name":"Northwest Denver Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb097"},"school_id":127918,"school_name":"Regis University","lat":"39.7891287","long":"-105.0306251","campus_name":"Northwest Denver Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb099"},"school_id":194824,"school_name":"Rensselaer Polytechnic Institute","lat":42.7285573,"long":-73.6753324208005,"campus_name":"Rensselaer Polytechnic Institute"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb09b"},"school_id":148335,"school_name":"Robert Morris University Illinois","lat":0,"long":0,"campus_name":"ROBERT MORRIS UNIVERSITY ILLINOIS - MAIN CAMPUS"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb09d"},"school_id":186380,"school_name":"Rutgers University-New Brunswick","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb09f"},"school_id":174783,"school_name":"Saint Cloud State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a1"},"school_id":215743,"school_name":"Saint Francis University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb09b"},"school_id":148335,"school_name":"Robert Morris University Illinois","lat":"41.87630839999999","long":"-87.6271937","campus_name":"ROBERT MORRIS UNIVERSITY ILLINOIS - MAIN CAMPUS"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb09d"},"school_id":186380,"school_name":"Rutgers University-New Brunswick","lat":"40.5008186","long":"-74.44739910000001","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb09f"},"school_id":174783,"school_name":"Saint Cloud State University","lat":"45.552525","long":"-94.15109299999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a1"},"school_id":215743,"school_name":"Saint Francis University","lat":"40.5067376","long":"-78.6390758","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a3"},"school_id":179308,"school_name":"Saint Louis Community College","lat":38.56878825,"long":-90.4206537258828,"campus_name":"St. Louis Community College- Forest Park"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a5"},"school_id":174817,"school_name":"Saint Mary's University of Minnesota","lat":0,"long":0,"campus_name":"Twin  Cities Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a7"},"school_id":122409,"school_name":"San Diego State University","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a5"},"school_id":174817,"school_name":"Saint Mary's University of Minnesota","lat":"44.95722029999999","long":"-93.26602319999999","campus_name":"Twin  Cities Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a7"},"school_id":122409,"school_name":"San Diego State University","lat":"32.77572170000001","long":"-117.0718893","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0a9"},"school_id":122755,"school_name":"San Jose State University","lat":37.3352583,"long":-121.88130228815,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ab"},"school_id":122931,"school_name":"Santa Clara University","lat":0,"long":0,"campus_name":"Main Campus - Santa Clara University"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ad"},"school_id":188137,"school_name":"Santa Fe Community College","lat":0,"long":0,"campus_name":"SFCC"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0af"},"school_id":143048,"school_name":"School of the Art Institute of Chicago","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b1"},"school_id":105747,"school_name":"Scottsdale Community College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b3"},"school_id":123299,"school_name":"Shasta College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b5"},"school_id":123299,"school_name":"Shasta College","lat":0,"long":0,"campus_name":"Shasta College - Tehama Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b7"},"school_id":233541,"school_name":"Shenandoah University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b9"},"school_id":231068,"school_name":"SIT Graduate Institute","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ab"},"school_id":122931,"school_name":"Santa Clara University","lat":"37.34964180000001","long":"-121.9389875","campus_name":"Main Campus - Santa Clara University"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ad"},"school_id":188137,"school_name":"Santa Fe Community College","lat":"35.6054002","long":"-105.9979037","campus_name":"SFCC"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0af"},"school_id":143048,"school_name":"School of the Art Institute of Chicago","lat":"41.88033799999999","long":"-87.624635","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b1"},"school_id":105747,"school_name":"Scottsdale Community College","lat":"33.5126183","long":"-111.8824857","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b3"},"school_id":123299,"school_name":"Shasta College","lat":"40.6266076","long":"-122.3142672","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b5"},"school_id":123299,"school_name":"Shasta College","lat":"40.1574026","long":"-122.2181881","campus_name":"Shasta College - Tehama Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b7"},"school_id":233541,"school_name":"Shenandoah University","lat":"39.1660159","long":"-78.1583388","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0b9"},"school_id":231068,"school_name":"SIT Graduate Institute","lat":"42.88602919999999","long":"-72.56592049999999","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0bb"},"school_id":123509,"school_name":"Skyline College","lat":37.6297664,"long":-122.467383101952,"campus_name":"Skyline College"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0bd"},"school_id":167835,"school_name":"Smith College","lat":42.3180301,"long":-72.6372697,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0bf"},"school_id":219347,"school_name":"South Dakota School of Mines and Technology","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0bf"},"school_id":219347,"school_name":"South Dakota School of Mines and Technology","lat":"44.072561","long":"-103.2054556","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c1"},"school_id":149222,"school_name":"Southern Illinois University-Carbondale","lat":37.71581435,"long":-89.2199937069488,"campus_name":"Southern Illinois University Carbondale"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c3"},"school_id":206862,"school_name":"Southern Nazarene University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c5"},"school_id":143215,"school_name":"Southwestern Illinois College","lat":0,"long":0,"campus_name":"Belleville Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c7"},"school_id":195173,"school_name":"St Francis College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c9"},"school_id":228149,"school_name":"St Mary's University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0cb"},"school_id":186867,"school_name":"Stevens Institute of Technology","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0cd"},"school_id":196167,"school_name":"SUNY College at Geneseo","lat":0,"long":0,"campus_name":"SUNY at Geneseo"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0cf"},"school_id":196194,"school_name":"SUNY College at Oswego","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0d1"},"school_id":196200,"school_name":"SUNY College at Potsdam","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0d3"},"school_id":196103,"school_name":"SUNY College of Environmental Science and Forestry","lat":0,"long":0,"campus_name":"SUNY College of Environmental Science and Forestry"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c3"},"school_id":206862,"school_name":"Southern Nazarene University","lat":"35.5122858","long":"-97.62994560000001","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c5"},"school_id":143215,"school_name":"Southwestern Illinois College","lat":"38.516694","long":"-89.923345","campus_name":"Belleville Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c7"},"school_id":195173,"school_name":"St Francis College","lat":"40.69331739999999","long":"-73.9922772","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0c9"},"school_id":228149,"school_name":"St Mary's University","lat":"29.4529548","long":"-98.5639582","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0cb"},"school_id":186867,"school_name":"Stevens Institute of Technology","lat":"40.7468668","long":"-74.0258467","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0cd"},"school_id":196167,"school_name":"SUNY College at Geneseo","lat":"42.79600689999999","long":"-77.82386269999999","campus_name":"SUNY at Geneseo"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0cf"},"school_id":196194,"school_name":"SUNY College at Oswego","lat":"43.45278649999999","long":"-76.54392589999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0d1"},"school_id":196200,"school_name":"SUNY College at Potsdam","lat":"44.6643102","long":"-74.9761059","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0d3"},"school_id":196103,"school_name":"SUNY College of Environmental Science and Forestry","lat":"43.0344612","long":"-76.1369148","campus_name":"SUNY College of Environmental Science and Forestry"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0d5"},"school_id":236753,"school_name":"Tacoma Community College","lat":47.24747585,"long":-122.521072361558,"campus_name":"Tacoma Community College"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0d7"},"school_id":216339,"school_name":"Temple University","lat":35.6484634,"long":139.7361585,"campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0d9"},"school_id":228723,"school_name":"Texas A \u0026 M University-College Station","lat":30.61179915,"long":-96.352044654213,"campus_name":"Texas A\u0026M University"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0db"},"school_id":229063,"school_name":"Texas Southern University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0dd"},"school_id":450085,"school_name":"The Art Institute of Charleston","lat":0,"long":0,"campus_name":"The Art Institute of Charleston"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0df"},"school_id":182111,"school_name":"The Art Institute of Las Vegas","lat":0,"long":0,"campus_name":"The Art Institute of Las Vegas"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0db"},"school_id":229063,"school_name":"Texas Southern University","lat":"29.7217625","long":"-95.3606121","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0dd"},"school_id":450085,"school_name":"The Art Institute of Charleston","lat":"32.781397","long":"-79.9269747","campus_name":"The Art Institute of Charleston"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0df"},"school_id":182111,"school_name":"The Art Institute of Las Vegas","lat":"36.0245456","long":"-115.0901283","campus_name":"The Art Institute of Las Vegas"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e1"},"school_id":210942,"school_name":"The Art Institute of Philadelphia","lat":39.95110945,"long":-75.1681307122858,"campus_name":"The Art Institute of Philadelphia"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e3"},"school_id":452027,"school_name":"The Art Institute of Raleigh-Durham","lat":0,"long":0,"campus_name":"The Art Institute of Raleigh-Durham"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e5"},"school_id":449010,"school_name":"The Art Institute of Tennessee-Nashville","lat":0,"long":0,"campus_name":"The Art Institute of Tennessee-Nashville"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e3"},"school_id":452027,"school_name":"The Art Institute of Raleigh-Durham","lat":"35.9918074","long":"-78.9054343","campus_name":"The Art Institute of Raleigh-Durham"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e5"},"school_id":449010,"school_name":"The Art Institute of Tennessee-Nashville","lat":"36.1544579","long":"-86.6351384","campus_name":"The Art Institute of Tennessee-Nashville"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e7"},"school_id":444927,"school_name":"The Art Institute of Tucson","lat":32.2512564,"long":-110.8847697,"campus_name":"The Art Institute of Tucson"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e9"},"school_id":235167,"school_name":"The Evergreen State College","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0eb"},"school_id":428286,"school_name":"The Illinois Institute of Art-Schaumburg","lat":0,"long":0,"campus_name":"The Illinois Institute of Art - Schaumburg"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ed"},"school_id":100751,"school_name":"The University of Alabama","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ef"},"school_id":180489,"school_name":"The University of Montana","lat":0,"long":0,"campus_name":"Mountain Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f1"},"school_id":228769,"school_name":"The University of Texas at Arlington","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f3"},"school_id":228778,"school_name":"The University of Texas at Austin","lat":0,"long":0,"campus_name":"The University of Texas at Austin"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f5"},"school_id":229300,"school_name":"The University of Texas Health Science Center at Houston","lat":0,"long":0,"campus_name":"The University of Texas Health Science Center at Houston - Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f7"},"school_id":416801,"school_name":"The University of Texas MD Anderson Cancer Center","lat":0,"long":0,"campus_name":"University of Texas MD Anderson Cancer Center - Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f9"},"school_id":206048,"school_name":"Tiffin University","lat":0,"long":0,"campus_name":"Tiffin Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0e9"},"school_id":235167,"school_name":"The Evergreen State College","lat":"47.0718574","long":"-122.9766427","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0eb"},"school_id":428286,"school_name":"The Illinois Institute of Art-Schaumburg","lat":"42.0482519","long":"-88.0437981","campus_name":"The Illinois Institute of Art - Schaumburg"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ed"},"school_id":100751,"school_name":"The University of Alabama","lat":"33.2140233","long":"-87.5391418","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ef"},"school_id":180489,"school_name":"The University of Montana","lat":"46.8600672","long":"-113.9852081","campus_name":"Mountain Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f1"},"school_id":228769,"school_name":"The University of Texas at Arlington","lat":"32.7310991","long":"-97.11551949999999","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f3"},"school_id":228778,"school_name":"The University of Texas at Austin","lat":"30.2849185","long":"-97.7340567","campus_name":"The University of Texas at Austin"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f5"},"school_id":229300,"school_name":"The University of Texas Health Science Center at Houston","lat":"29.7029493","long":"-95.4035139","campus_name":"The University of Texas Health Science Center at Houston - Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f7"},"school_id":416801,"school_name":"The University of Texas MD Anderson Cancer Center","lat":"29.7070147","long":"-95.3968476","campus_name":"University of Texas MD Anderson Cancer Center - Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0f9"},"school_id":206048,"school_name":"Tiffin University","lat":"41.1184446","long":"-83.1845635","campus_name":"Tiffin Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0fb"},"school_id":157818,"school_name":"Transylvania University","lat":38.053107,"long":-84.4939870577841,"campus_name":"Transylvania University"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0fd"},"school_id":130590,"school_name":"Trinity College","lat":0,"long":0,"campus_name":"Main Campus Trinity College"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0fd"},"school_id":130590,"school_name":"Trinity College","lat":"41.74707799999999","long":"-72.690375","campus_name":"Main Campus Trinity College"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb0ff"},"school_id":102368,"school_name":"Troy University","lat":31.2818542,"long":-85.4707294184268,"campus_name":"Troy Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb101"},"school_id":178615,"school_name":"Truman State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb103"},"school_id":160755,"school_name":"Tulane University of Louisiana","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb101"},"school_id":178615,"school_name":"Truman State University","lat":"40.1876254","long":"-92.5819458","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb103"},"school_id":160755,"school_name":"Tulane University of Louisiana","lat":"29.9403477","long":"-90.12072789999999","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb105"},"school_id":102377,"school_name":"Tuskegee University","lat":32.430471,"long":-85.7038439,"campus_name":"TUSKEGEE UNIVERSITY"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb107"},"school_id":206288,"school_name":"United Theological Seminary","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb109"},"school_id":200800,"school_name":"University of Akron Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb10b"},"school_id":102632,"school_name":"University of Alaska Southeast","lat":0,"long":0,"campus_name":"Main Campus/Auke Bay"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb10d"},"school_id":104179,"school_name":"University of Arizona","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb10f"},"school_id":110635,"school_name":"University of California-Berkeley","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb111"},"school_id":110644,"school_name":"University of California-Davis","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb113"},"school_id":110653,"school_name":"University of California-Irvine","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb107"},"school_id":206288,"school_name":"United Theological Seminary","lat":"39.8138492","long":"-84.2769719","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb109"},"school_id":200800,"school_name":"University of Akron Main Campus","lat":"41.07591479999999","long":"-81.5111129","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb10b"},"school_id":102632,"school_name":"University of Alaska Southeast","lat":"58.38495499999999","long":"-134.640283","campus_name":"Main Campus/Auke Bay"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb10d"},"school_id":104179,"school_name":"University of Arizona","lat":"32.2318851","long":"-110.9501094","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb10f"},"school_id":110635,"school_name":"University of California-Berkeley","lat":"37.8718992","long":"-122.2585399","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb111"},"school_id":110644,"school_name":"University of California-Davis","lat":"38.5382322","long":"-121.7617125","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb113"},"school_id":110653,"school_name":"University of California-Irvine","lat":"33.6404952","long":"-117.8442962","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb115"},"school_id":110662,"school_name":"University of California-Los Angeles","lat":34.07088865,"long":-118.446731866638,"campus_name":"UCLA"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb117"},"school_id":110671,"school_name":"University of California-Riverside","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb119"},"school_id":110705,"school_name":"University of California-Santa Barbara","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb117"},"school_id":110671,"school_name":"University of California-Riverside","lat":"33.9737055","long":"-117.3280644","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb119"},"school_id":110705,"school_name":"University of California-Santa Barbara","lat":"34.4139629","long":"-119.848947","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb11b"},"school_id":110714,"school_name":"University of California-Santa Cruz","lat":36.9795478,"long":-122.0544269,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb11d"},"school_id":132903,"school_name":"University of Central Florida","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb11f"},"school_id":144050,"school_name":"University of Chicago","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb121"},"school_id":201885,"school_name":"University of Cincinnati-Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb11d"},"school_id":132903,"school_name":"University of Central Florida","lat":"28.6024274","long":"-81.2000599","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb11f"},"school_id":144050,"school_name":"University of Chicago","lat":"41.78860789999999","long":"-87.5987133","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb121"},"school_id":201885,"school_name":"University of Cincinnati-Main Campus","lat":"39.1329219","long":"-84.51495039999999","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb123"},"school_id":126614,"school_name":"University of Colorado Boulder","lat":40.00741815,"long":-105.266755220729,"campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb125"},"school_id":139959,"school_name":"University of Georgia","lat":10.2829,"long":-84.7981429,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb127"},"school_id":225511,"school_name":"University of Houston","lat":0,"long":0,"campus_name":"Central Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb129"},"school_id":142285,"school_name":"University of Idaho","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb12b"},"school_id":145600,"school_name":"University of Illinois at Chicago","lat":0,"long":0,"campus_name":"UIC College of Medicine at Peoria"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb12d"},"school_id":145637,"school_name":"University of Illinois at Urbana-Champaign","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb127"},"school_id":225511,"school_name":"University of Houston","lat":"29.7199489","long":"-95.3422334","campus_name":"Central Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb129"},"school_id":142285,"school_name":"University of Idaho","lat":"46.72881239999999","long":"-117.0126084","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb12b"},"school_id":145600,"school_name":"University of Illinois at Chicago","lat":"40.702","long":"-89.592218","campus_name":"UIC College of Medicine at Peoria"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb12d"},"school_id":145637,"school_name":"University of Illinois at Urbana-Champaign","lat":"40.10195230000001","long":"-88.2271615","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb12f"},"school_id":151263,"school_name":"University of Indianapolis","lat":39.7096694,"long":-86.1353192,"campus_name":"UNIVERSITY OF INDIANAPOLIS"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb131"},"school_id":153658,"school_name":"University of Iowa","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb133"},"school_id":155317,"school_name":"University of Kansas","lat":0,"long":0,"campus_name":"Main Campus (Lawrence)"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb135"},"school_id":161253,"school_name":"University of Maine","lat":0,"long":0,"campus_name":"University of Maine"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb137"},"school_id":163204,"school_name":"University of Maryland-University College","lat":0,"long":0,"campus_name":"Adelphi"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb139"},"school_id":166629,"school_name":"University of Massachusetts-Amherst","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb13b"},"school_id":167987,"school_name":"University of Massachusetts-Dartmouth","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb13d"},"school_id":135726,"school_name":"University of Miami","lat":0,"long":0,"campus_name":"Coral Gables Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb13f"},"school_id":170976,"school_name":"University of Michigan-Ann Arbor","lat":0,"long":0,"campus_name":"Ann Arbor campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb141"},"school_id":174066,"school_name":"University of Minnesota-Twin Cities","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb143"},"school_id":176017,"school_name":"University of Mississippi","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb145"},"school_id":178396,"school_name":"University of Missouri-Columbia","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb147"},"school_id":178420,"school_name":"University of Missouri-St Louis","lat":0,"long":0,"campus_name":"University of Missouri-St. Louis"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb149"},"school_id":204185,"school_name":"University of Mount Union","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb14b"},"school_id":182290,"school_name":"University of Nevada-Reno","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb14d"},"school_id":183044,"school_name":"University of New Hampshire-Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb14f"},"school_id":101879,"school_name":"University of North Alabama","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb151"},"school_id":199120,"school_name":"University of North Carolina at Chapel Hill","lat":0,"long":0,"campus_name":"The University of North Carolina at Chapel Hill"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb153"},"school_id":200280,"school_name":"University of North Dakota","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb155"},"school_id":207500,"school_name":"University of Oklahoma-Norman Campus","lat":0,"long":0,"campus_name":"Norman Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb157"},"school_id":209551,"school_name":"University of Oregon","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb159"},"school_id":233374,"school_name":"University of Richmond","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb131"},"school_id":153658,"school_name":"University of Iowa","lat":"41.6626963","long":"-91.5548998","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb133"},"school_id":155317,"school_name":"University of Kansas","lat":"38.95434389999999","long":"-95.2557961","campus_name":"Main Campus (Lawrence)"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb135"},"school_id":161253,"school_name":"University of Maine","lat":"44.90134570000001","long":"-68.6696269","campus_name":"University of Maine"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb137"},"school_id":163204,"school_name":"University of Maryland-University College","lat":"38.91264999999999","long":"-76.847599","campus_name":"Adelphi"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb139"},"school_id":166629,"school_name":"University of Massachusetts-Amherst","lat":"42.3911569","long":"-72.5267121","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb13b"},"school_id":167987,"school_name":"University of Massachusetts-Dartmouth","lat":"41.6308868","long":"-71.0066947","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb13d"},"school_id":135726,"school_name":"University of Miami","lat":"25.713381","long":"-80.27746429999999","campus_name":"Coral Gables Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb13f"},"school_id":170976,"school_name":"University of Michigan-Ann Arbor","lat":"42.2780436","long":"-83.7382241","campus_name":"Ann Arbor campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb141"},"school_id":174066,"school_name":"University of Minnesota-Twin Cities","lat":"44.97399","long":"-93.2277285","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb143"},"school_id":176017,"school_name":"University of Mississippi","lat":"34.3647324","long":"-89.538443","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb145"},"school_id":178396,"school_name":"University of Missouri-Columbia","lat":"38.94038079999999","long":"-92.32773750000001","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb147"},"school_id":178420,"school_name":"University of Missouri-St Louis","lat":"38.7116737","long":"-90.3085589","campus_name":"University of Missouri-St. Louis"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb149"},"school_id":204185,"school_name":"University of Mount Union","lat":"40.9041553","long":"-81.1127618","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb14b"},"school_id":182290,"school_name":"University of Nevada-Reno","lat":"39.54366319999999","long":"-119.8154461","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb14d"},"school_id":183044,"school_name":"University of New Hampshire-Main Campus","lat":"43.138948","long":"-70.9370252","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb14f"},"school_id":101879,"school_name":"University of North Alabama","lat":"34.80736409999999","long":"-87.68000190000001","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb151"},"school_id":199120,"school_name":"University of North Carolina at Chapel Hill","lat":"35.9548107","long":"-78.9662056","campus_name":"The University of North Carolina at Chapel Hill"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb153"},"school_id":200280,"school_name":"University of North Dakota","lat":"47.922891","long":"-97.0768014","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb155"},"school_id":207500,"school_name":"University of Oklahoma-Norman Campus","lat":"35.2058936","long":"-97.4457137","campus_name":"Norman Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb157"},"school_id":209551,"school_name":"University of Oregon","lat":"44.0448302","long":"-123.0726055","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb159"},"school_id":233374,"school_name":"University of Richmond","lat":"37.5739607","long":"-77.53961369999999","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb15b"},"school_id":195030,"school_name":"University of Rochester","lat":43.1373509,"long":-77.6131475627743,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb15d"},"school_id":155812,"school_name":"University of Saint Mary","lat":0,"long":0,"campus_name":"University of Saint Mary"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb15f"},"school_id":122612,"school_name":"University of San Francisco","lat":0,"long":0,"campus_name":"Hilltop Campus (San Francisco)"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb161"},"school_id":137351,"school_name":"University of South Florida-Main Campus","lat":0,"long":0,"campus_name":"USF Tampa Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb163"},"school_id":230764,"school_name":"University of Utah","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb165"},"school_id":234076,"school_name":"University of Virginia-Main Campus","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb167"},"school_id":236948,"school_name":"University of Washington-Seattle Campus","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb169"},"school_id":141334,"school_name":"University of West Georgia","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb16b"},"school_id":240444,"school_name":"University of Wisconsin-Madison","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb16d"},"school_id":240453,"school_name":"University of Wisconsin-Milwaukee","lat":0,"long":0,"campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb15d"},"school_id":155812,"school_name":"University of Saint Mary","lat":"39.2774058","long":"-94.9065328","campus_name":"University of Saint Mary"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb15f"},"school_id":122612,"school_name":"University of San Francisco","lat":"37.7766384","long":"-122.4506253","campus_name":"Hilltop Campus (San Francisco)"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb161"},"school_id":137351,"school_name":"University of South Florida-Main Campus","lat":"28.0587031","long":"-82.41385389999999","campus_name":"USF Tampa Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb163"},"school_id":230764,"school_name":"University of Utah","lat":"40.7649368","long":"-111.8421021","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb165"},"school_id":234076,"school_name":"University of Virginia-Main Campus","lat":"38.0335529","long":"-78.5079772","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb167"},"school_id":236948,"school_name":"University of Washington-Seattle Campus","lat":"47.65533509999999","long":"-122.3035199","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb169"},"school_id":141334,"school_name":"University of West Georgia","lat":"33.5734291","long":"-85.0987351","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb16b"},"school_id":240444,"school_name":"University of Wisconsin-Madison","lat":"43.07659200000001","long":"-89.4124875","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb16d"},"school_id":240453,"school_name":"University of Wisconsin-Milwaukee","lat":"43.07826299999999","long":"-87.8819686","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb16f"},"school_id":240365,"school_name":"University of Wisconsin-Oshkosh","lat":44.0250195,"long":-88.5510269401539,"campus_name":"University of Wisconsin Oshkosh"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb171"},"school_id":240189,"school_name":"University of Wisconsin-Whitewater","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb173"},"school_id":196307,"school_name":"Upstate Medical University","lat":0,"long":0,"campus_name":"SUNY Upstate Medical University"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb171"},"school_id":240189,"school_name":"University of Wisconsin-Whitewater","lat":"42.8383546","long":"-88.7432242","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb173"},"school_id":196307,"school_name":"Upstate Medical University","lat":"43.0425431","long":"-76.1396943","campus_name":"SUNY Upstate Medical University"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb175"},"school_id":152600,"school_name":"Valparaiso University","lat":41.4629448,"long":-87.0446488011438,"campus_name":"VALPARAISO UNIVERSITY"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb177"},"school_id":221999,"school_name":"Vanderbilt University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb179"},"school_id":236939,"school_name":"Washington State University","lat":0,"long":0,"campus_name":"Main Campus"}
-{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb17b"},"school_id":179867,"school_name":"Washington University in St Louis","lat":0,"long":0,"campus_name":"Danforth Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb177"},"school_id":221999,"school_name":"Vanderbilt University","lat":"36.1447034","long":"-86.8026551","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb179"},"school_id":236939,"school_name":"Washington State University","lat":"46.7319374","long":"-117.1544219","campus_name":"Main Campus"}
+{"_id":{"$oid":"57f0bd8157cd6e1c9ccfb17b"},"school_id":179867,"school_name":"Washington University in St Louis","lat":"38.6487895","long":"-90.31079620000001","campus_name":"Danforth Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb17d"},"school_id":220206,"school_name":"Welch College","lat":"36.13412559999999","long":"-86.8275714","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb17f"},"school_id":130697,"school_name":"Wesleyan University","lat":"41.5566104","long":"-72.65690409999999","campus_name":"Main Campus"}
 {"_id":{"$oid":"57f0bd8157cd6e1c9ccfb181"},"school_id":238032,"school_name":"West Virginia University","lat":39.6358385,"long":-79.954972,"campus_name":"Main Campus"}

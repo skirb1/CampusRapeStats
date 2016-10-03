@@ -3,15 +3,15 @@ import sys
 
 client = MongoClient()
 db = client.campus_crime
-campuses = db['campuses']
 
+campuses = db['campuses']
 year = sys.argv[1]
 
-totals_collection = "totals" + year
-geo_collection = "geo_data" + year
+totals_name = "totals" + year
+geo_name = "geo_data" + year
 
-rape_stats = db[totals_collection]
-geo_data = db[geo_collection]
+totals_data = db[totals_name]
+geo_data = db[geo_name]
 
 if geo_data.find({}).count() == 0 :
 	geo_data.insert_one(
@@ -21,7 +21,7 @@ if geo_data.find({}).count() == 0 :
 		}
 	)
 
-cursor = db.rape_stats.find({})
+cursor = totals_data.find({})
 
 for record_r in cursor :
 	school = record_r['school_name']
@@ -41,7 +41,7 @@ for record_r in cursor :
 		continue
 
 	#leave out lat/long outside U.S. bounds (invalid data)
-	if (latitude < 10.0 or latitude > 72.0 or longitude < -175.0 or longitude > -55.0) :
+	if (latitude < 17.0 or latitude > 72.0 or longitude < -175.0 or longitude > -55.0) :
 		continue
 
 	

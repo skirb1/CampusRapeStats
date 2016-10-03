@@ -1,4 +1,4 @@
-mongoexport --db test --collection traffic --out traffic.json
+mongoexport --db campus_crime --collection geo_data* --out geo*.json
 
 
 //try --out geoYEAR.geojson
