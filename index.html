@@ -24,10 +24,18 @@
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
 
+    <!-- jquery for click() -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
    
     <!-- Google maps style -->
     <style>#map { height: 400px; width: 100%;} </style>
+    <style>
+      .active { background:red; }
+      #navbar { margin-bottom:0; }
+      body { height: 100%; margin: 3%; padding: 0px; }
+    </style>
 
   </head>
 
@@ -42,7 +50,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Campus Sexual Violence Statistics</a>
+          <a class="navbar-brand" style="color:white;">Campus Sexual Violence Statistics</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -54,10 +62,40 @@
       </div>
     </nav>
 
-    <div class="container">
-      <div class="starter-template">
+  <div class="container">
+    <div class="starter-template">
 
-      	<p class="lead">Campus sexual violence incidents in the U.S.</p>
+        <script>
+        $(document).ready(function(){
+            $('.yearbutton').click(function() {
+             $('.yearbutton').removeClass('active');
+             $(this).addClass('active');
+            });
+          });
+
+        $(document).ready(function(){
+            $('.magbutton').click(function() {
+             $('.magbutton').removeClass('active');
+             $(this).addClass('active');
+            });
+          });
+        </script>
+
+        <script src="loadMapData.js"></script>
+        
+        <div style="display: inline;padding-right:10%">
+        <button onclick="loadMapData('2014', map)" type="button" class="yearbutton btn btn-default active">2014</button>
+        <button onclick="loadMapData('2013', map)" type="button" class="yearbutton btn btn-default">2013</button>
+        <button onclick="loadMapData('2012', map)" type="button" class="yearbutton btn btn-default">2012</button>
+        <button onclick="loadMapData('2011', map)" type="button" class="yearbutton btn btn-default">2011</button>
+        </div>
+
+        <div style="display: inline;">
+        <button onclick="loadMapData('2014', map)" type="button" class="magbutton btn btn-default active">Total Assaults</button>
+        <button onclick="loadMapData('2014', map)" type="button" class="magbutton btn btn-default">Total per Capita</button>
+        </div>
+
+        <br/><br>
 
         <!-- Google Map code -->
         <div id="map"></div>
@@ -122,11 +160,13 @@
 	            }
 	          	]
             });
+            
             map.data.loadGeoJson('map2014.geojson');
 
             map.data.setStyle(function(feature) {
               var magnitude = feature.getProperty('total_offenses');
-              var name = feature.getProperty('school_name');
+              var school_size = feature.getProperty('size');
+              var name = feature.getProperty('school_name') + ": " + magnitude;
               return {
                 icon: getCircle(magnitude),
                 title: name
@@ -142,22 +182,11 @@
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdPeJ5xqsqtEboFnQktSEvtAcQ52W-xNM&callback=initMap">
         </script>
 
-		<br>
-        <script src="loadMapData.js"></script>
-      	<button onclick="loadMapData('2014', map)">2014</button>
-      	<button onclick="loadMapData('2013', map)">2013</button>
-      	<button onclick="loadMapData('2012', map)">2012</button>
-      	<button onclick="loadMapData('2011', map)">2011</button>
-      	<br><br>
-      	<button>Total Assaults</button>
-      	<button>Total per Capita</button>
-        
-        <br/>
-        
+        <br>
+      <p>Campus sexual violence incidents as reported by the U.S. Department of Education</p>
 
       </div>
-
-    </div><!-- /.container -->
+    </div> <!--/.container -->
 
 
     <!-- Bootstrap core JavaScript
